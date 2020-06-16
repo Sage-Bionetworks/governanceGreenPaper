@@ -53,9 +53,9 @@
   <meta name="citation_fulltext_html_url" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/" />
   <meta name="citation_pdf_url" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/892cc550bf9cb724c8daee957e267c3c376eb96d/" />
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/892cc550bf9cb724c8daee957e267c3c376eb96d/" />
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/892cc550bf9cb724c8daee957e267c3c376eb96d/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/7b2ccbaac3d94756ee2ec4e29f6e85fb746dd940/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/7b2ccbaac3d94756ee2ec4e29f6e85fb746dd940/" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/7b2ccbaac3d94756ee2ec4e29f6e85fb746dd940/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@
 </header>
 <p><small><em>
 This manuscript
-(<a href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/892cc550bf9cb724c8daee957e267c3c376eb96d/">permalink</a>)
+(<a href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/7b2ccbaac3d94756ee2ec4e29f6e85fb746dd940/">permalink</a>)
 was automatically generated
-from <a href="https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/892cc550bf9cb724c8daee957e267c3c376eb96d">Sage-Bionetworks/governanceGreenPaper@892cc55</a>
+from <a href="https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/7b2ccbaac3d94756ee2ec4e29f6e85fb746dd940">Sage-Bionetworks/governanceGreenPaper@7b2ccba</a>
 on June 16, 2020.
 </em></small></p>
 <h2 id="authors">Authors</h2>
@@ -97,13 +97,73 @@ Sage Bionetworks
 </ul>
 <h2 class="page_break_before" id="abstract">Abstract</h2>
 <p>This report provides a landscape analysis of of models of governance for open data sharing based on our observations in the biomedical sciences. We offer an overview of those observations and show areas where we think this work can expand to supply further support for open data sharing outside the sciences.</p>
-<p>The central argument of this paper is that the “right” system of governance is determined by first understanding the nature of the collaborative activities intended. These activities map to types of <em>governance structures</em>, which in turn can be built out of standardized parts — what we call <em>governance design patterns</em>. In this way, governance for data science can be easy to build, follow key laws and ethics regimes, and enable innovative models of collaboration. We provide an initial survey of structures and design patterns, as well as examples of how we leverage this approach to rapidly build out ethics-centered governance in biomedical research.</p>
+<p>The central argument of this paper is that the “right” system of governance is determined by first understanding the nature of the collaborative activities intended. These activities map to types of <strong>governance structures</strong>, which in turn can be built out of standardized parts — what we call <strong>governance design patterns</strong>. In this way, governance for data science can be easy to build, follow key laws and ethics regimes, and enable innovative models of collaboration. We provide an initial survey of structures and design patterns, as well as examples of how we leverage this approach to rapidly build out ethics-centered governance in biomedical research.</p>
 <p>As this paper itself will be deposited in GitHub, we also envision a contributory process whereby this inventory can be extended with more resources and links over time. We can envision communities using these design resources to create clearly governed networks. We can also imagine small private collectives amongst corporations and their partners, both academic and smaller businesses, using these designs as a “stack” to govern data science beyond biomedical research.</p>
 <p>While there is no one-size-fits-all solution, we argue for learning from ongoing data science collaborations and building on from existing standards and tools. And in so doing, we argue for data governance as a discipline worthy of expertise, attention, standards, and innovation.</p>
+<h2 class="page_break_before" id="introduction-to-data-governance">Introduction to Data Governance</h2>
+<p>We have access to more data than ever before. We have access to faster computing resources than ever before. But technology, by itself, will not cures or create the solutions to climate change. The 2010s showed that unrestricted personal data surveillance can hack at the roots of society itself — changing elections and undermining collective trust in truth and experts <span class="citation" data-cites="1GcAkA1FX">[<a href="#ref-1GcAkA1FX" role="doc-biblioref">1</a>]</span>. Data companies are now struggling to institute governance after-the-fact, building advisory boards, and attaching flags to posts.</p>
+<p>Beyond social media and venture capital, however, lies a vast, rich, and often under-explored field of data governance. Particularly in the sciences, it is not controversial to believe that creating technology requires also creating the practices that govern its use. These scientific cultures often already work under regulation, and thus their existing practices predict life under data protection regulations and privacy laws.</p>
+<p>Data scientists in the 21st century, like physicists in the last one, must reckon with the power they have to change the world forever. Data about people and the world is inseparable from the values that underlie its creation and application. But data scientists, particularly in non-regulated settings, often work without institutions, guideposts, or guardrails — without governance. The outcome is a mishmash of algorithmic inference that is inaccurate at best, racist and divisive at worst <span class="citation" data-cites="M5iKzYGg">[<a href="#ref-M5iKzYGg" role="doc-biblioref">2</a>]</span>.</p>
+<p>Governance is a broad term. In a general sense, governance is a system of setting policy to encourage and prohibit behaviors, to monitor and enforce such policy, and to issue penalties or rewards accordingly. Governance is embodied in laws or other rules to tell humans (or machines) what they cannot do, or to incentivize them to try to do things they might not do otherwise. It can also be hardwired into tools (e.g. choice of data type) to prevent them from ever being able to do prohibited things, or to only be able to do things that are encouraged. Some aspects of governance are explicit — either codified into rules (written in natural language or computer code) or embodied in the very structure of equipment. Other aspects of governance are implicit — existing as cultural norms or tacit knowledge passed from person to person in practice.</p>
+<p>In the context of biomedical research, we define governance as the freedoms, constraints, and incentives that determine how two or more parties manage the ingress, storage, analysis, and egress of data, tools, methods, and knowledge amongst themselves and with others.</p>
+<p>Each step requires software, storage, compute power, know-how, and access to external digital resources. Each step further involves communication and negotiation. The resulting co-created knowledge is also more than just a publication in an academic journal, comprising mathematical models, networks, graphs, or other complex analyses, systems, or representations. Validating the claims in that knowledge may require access to analytic scripts written expressly for the data as well as enough infrastructure to re-run the entire analysis. The “data” in data science thus means more than just a literal data file.</p>
+<p>Complicating matters further, different scientific communities manage governance very differently — high energy physics is the ultimate collaborative and standards-based field for governance, while in the field of biology governance remains individualized and often artisanal. This difference in governance intertwines with the nature of data and its collection: physicists are long accustomed to sharing large-scale equipment to generate, while biologists typically work in individualized laboratory settings with local data-generating equipment <span class="citation" data-cites="11z0HOBna">[<a href="#ref-11z0HOBna" role="doc-biblioref">3</a>]</span>.</p>
+<p>This paper argues that the “right” system of governance (including the “right” types and quantities of resources for governing) is determined by the nature of the collaborative activities intended. Concordantly, if our current system of governance is misaligned with our collaborative intent, and we want to transition to a system that is better aligned, then our transition strategy must be determined by an understanding of both the “as-is” and the “to-be” forms of collaboration.</p>
+<p>As we will see in greater detail below, much scientific data governance revolves around how available data will be (i.e., how many and what types of people can access it) and how many freedoms are given to those who can access it (i.e., what conditions limit how can they use it). To understand these attributes of collaboration in context, consider the following examples.</p>
+<p>First, a sensitive data set composed of a million mammograms with identifiable information could be powerful for studying breast cancer, if made widely available. But such a data set is enormous, costing tens of thousands of dollars in cloud fees just to transfer and store it, and more to analyze it. Further, its privacy implications would make its distribution complex, significantly constricting users. The right data governance approach can unlock that data set while balancing cost and privacy, allowing rigorously vetted users to apply for access to compute on it, privately, while preventing data extraction <span class="citation" data-cites="odIgeu98">[<a href="#ref-odIgeu98" role="doc-biblioref">4</a>]</span> and undesired uses <span class="citation" data-cites="nw5braAS">[<a href="#ref-nw5braAS" role="doc-biblioref">5</a>]</span>.</p>
+<p>Similarly, a data set that extracts sensor information about Parkinson’s disease from the phones of 15,000 people could drive new insights both into how the disease progresses, and into how we can use phones to study disease. We can study memory, phonation, and gait over time with no devices other than a smartphone. Such a data set would be far less identifiable than the mammograms, and smaller. Thus, its data governance can, in turn, leverage broader distribution and lower barriers to access, allowing a large audience of lightly vetted users to download, process, and publish new insights <span class="citation" data-cites="LArYGREf">[<a href="#ref-LArYGREf" role="doc-biblioref">6</a>]</span>.</p>
+<p>These two examples are real-life examples from Sage Bionetworks (the DREAM digital mammography challenge and the mPower observational study of Parkinsons). They connect fundamentally through the conviction that there is not a simple answer to how we might govern data. Instead, we must look to technical realities, contractual methods, and, most importantly, how they can work together to unlock responsible data use in the service of more reliable claims from data science.</p>
+<p>Importantly, our own focus is in biomedical research data sharing. This focus invokes a series of privacy laws and regulations relating to the identifiability of the data — its mismanagement has done direct harm to people <span class="citation" data-cites="ZvwpEFTA">[<a href="#ref-ZvwpEFTA" role="doc-biblioref">7</a>]</span> and the variable nature of the data makes aggregation from across multiple sources complex. For us, the context under which data were collected will bound the ways the data can be meaningfully used. Thus, data sharing in our space regularly requires nuance and customization <span class="citation" data-cites="10J8KhM0p">[<a href="#ref-10J8KhM0p" role="doc-biblioref">8</a>]</span>. While our space has been an outlier compared to consumer data and government open data, the increasing likelihood of data protection legislation around the globe means our examples may reflect a looming future for all data about individuals.</p>
+<p>The good news is that these examples also point to a designable future that leverages a few key governance models to capture most of the common governance patterns encountered, with customization around the edges to reach the most complex patterns specific to any particular data set. We introduce the concept of governance structures to describe the models that we see forming over time. We also introduce the concept of governance design patterns to describe reusable elements of governance, such as standard contract language or user interfaces. These design patterns offer another path to governing open science: they codify a variety of research collaborations which, in turn, make more data more open. They represent a potential future direction for data governance as a discipline.</p>
+<p>The rest of the paper will be as follows. We will account for major structures of scientific collaboration, including how suited each structure is to meeting open science goals. We will detail each governance structure in terms of a few key attributes, including availability and freedom. Next, we will discuss the governance design patterns associated with each of the collaborative patterns. This will lead into a discussion about how to transition data resources from one governance design to another — a form of data publication. Finally, we offer two example projects currently underway at Sage Bionetworks to make concrete the preceding concepts of governance structures and governance design patterns.</p>
 <h2 class="page_break_before" id="references">References</h2>
 <!-- Explicitly insert bibliography here -->
-<div id="refs" role="doc-bibliography">
-
+<div id="refs" class="references hanging-indent" role="doc-bibliography">
+<div id="ref-1GcAkA1FX">
+<p>1. <strong>Antisocial media: how facebook disconnects US and undermines democracy</strong> <br />
+Siva Vaidhyanathan<br />
+<em>Oxford University Press</em> (2018) <br />
+ISBN: <a href="https://worldcat.org/isbn/9780190841171">9780190841171</a></p>
+</div>
+<div id="ref-M5iKzYGg">
+<p>2. (2018-07-16) <a href="http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf">http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf</a></p>
+</div>
+<div id="ref-11z0HOBna">
+<p>3. <strong>Epistemic cultures: how the sciences make knowledge</strong> <br />
+K. Knorr-Cetina<br />
+<em>Harvard University Press</em> (1999) <br />
+ISBN: <a href="https://worldcat.org/isbn/9780674258938">9780674258938</a></p>
+</div>
+<div id="ref-odIgeu98">
+<p>4. <strong>Evaluation of Combined Artificial Intelligence and Radiologist Assessment to Interpret Screening Mammograms</strong> <br />
+Thomas Schaffter, Diana S. M. Buist, Christoph I. Lee, Yaroslav Nikulin, Dezso Ribli, Yuanfang Guan, William Lotter, Zequn Jie, Hao Du, Sijia Wang, … and the DM DREAM Consortium<br />
+<em>JAMA Network Open</em> (2020-03-02) <a href="https://doi.org/gg2dvg">https://doi.org/gg2dvg</a> <br />
+DOI: <a href="https://doi.org/10.1001/jamanetworkopen.2020.0265">10.1001/jamanetworkopen.2020.0265</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/32119094">32119094</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7052735">PMC7052735</a></p>
+</div>
+<div id="ref-nw5braAS">
+<p>5. <strong>Alternative models for sharing confidential biomedical data</strong> <br />
+Justin Guinney, Julio Saez-Rodriguez<br />
+<em>Nature Biotechnology</em> (2018-05-09) <a href="https://doi.org/gg2dvh">https://doi.org/gg2dvh</a> <br />
+DOI: <a href="https://doi.org/10.1038/nbt.4128">10.1038/nbt.4128</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/29734317">29734317</a></p>
+</div>
+<div id="ref-LArYGREf">
+<p>6. <strong>The mPower study, Parkinson disease mobile data collected using ResearchKit</strong> <br />
+Brian M. Bot, Christine Suver, Elias Chaibub Neto, Michael Kellen, Arno Klein, Christopher Bare, Megan Doerr, Abhishek Pratap, John Wilbanks, E. Ray Dorsey, … Andrew D. Trister<br />
+<em>Scientific Data</em> (2016-03-03) <a href="https://doi.org/gg2dvj">https://doi.org/gg2dvj</a> <br />
+DOI: <a href="https://doi.org/10.1038/sdata.2016.11">10.1038/sdata.2016.11</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26938265">26938265</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4776701">PMC4776701</a></p>
+</div>
+<div id="ref-ZvwpEFTA">
+<p>7. <strong>Genomic Justice for Native Americans</strong> <br />
+Nanibaa’ A. Garrison<br />
+<em>Science, Technology, &amp; Human Values</em> (2012-12-21) <a href="https://doi.org/gg2dvk">https://doi.org/gg2dvk</a> <br />
+DOI: <a href="https://doi.org/10.1177/0162243912470009">10.1177/0162243912470009</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/28216801">28216801</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5310710">PMC5310710</a></p>
+</div>
+<div id="ref-10J8KhM0p">
+<p>8. <strong>Perceived Benefits, Harms, and Views About How to Share Data Responsibly</strong> <br />
+Phaik Yeong Cheah, Decha Tangseefa, Aimatcha Somsaman, Tri Chunsuttiwat, François Nosten, Nicholas P. J. Day, Susan Bull, Michael Parker<br />
+<em>Journal of Empirical Research on Human Research Ethics</em> (2015-08-21) <a href="https://doi.org/f7pmw8">https://doi.org/f7pmw8</a> <br />
+DOI: <a href="https://doi.org/10.1177/1556264615592388">10.1177/1556264615592388</a> · PMID: <a href="https://www.ncbi.nlm.nih.gov/pubmed/26297749">26297749</a> · PMCID: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4547202">PMC4547202</a></p>
+</div>
 </div>
 <!-- default theme -->
 

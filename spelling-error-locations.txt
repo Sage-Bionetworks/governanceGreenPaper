@@ -1,1 +1,12 @@
 content/01.abstract.md:7:amongst
+content/02.intro-data-gov.md:9:incentivize
+content/02.intro-data-gov.md:11:amongst
+content/02.intro-data-gov.md:15:artisanal
+content/02.intro-data-gov.md:17:Concordantly
+content/02.intro-data-gov.md:23:phonation
+content/02.intro-data-gov.md:25:Bionetworks
+content/02.intro-data-gov.md:25:mPower
+content/02.intro-data-gov.md:25:Parkinsons
+content/02.intro-data-gov.md:27:identifiability
+content/02.intro-data-gov.md:29:designable
+content/02.intro-data-gov.md:31:Bionetworks

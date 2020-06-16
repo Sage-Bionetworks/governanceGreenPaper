@@ -1,1 +1,586 @@
-[]
+[
+  {
+    "type": "article-journal",
+    "id": "odIgeu98",
+    "author": [
+      {
+        "family": "Schaffter",
+        "given": "Thomas"
+      },
+      {
+        "family": "Buist",
+        "given": "Diana S. M."
+      },
+      {
+        "family": "Lee",
+        "given": "Christoph I."
+      },
+      {
+        "family": "Nikulin",
+        "given": "Yaroslav"
+      },
+      {
+        "family": "Ribli",
+        "given": "Dezso"
+      },
+      {
+        "family": "Guan",
+        "given": "Yuanfang"
+      },
+      {
+        "family": "Lotter",
+        "given": "William"
+      },
+      {
+        "family": "Jie",
+        "given": "Zequn"
+      },
+      {
+        "family": "Du",
+        "given": "Hao"
+      },
+      {
+        "family": "Wang",
+        "given": "Sijia"
+      },
+      {
+        "family": "Feng",
+        "given": "Jiashi"
+      },
+      {
+        "family": "Feng",
+        "given": "Mengling"
+      },
+      {
+        "family": "Kim",
+        "given": "Hyo-Eun"
+      },
+      {
+        "family": "Albiol",
+        "given": "Francisco"
+      },
+      {
+        "family": "Albiol",
+        "given": "Alberto"
+      },
+      {
+        "family": "Morrell",
+        "given": "Stephen"
+      },
+      {
+        "family": "Wojna",
+        "given": "Zbigniew"
+      },
+      {
+        "family": "Ahsen",
+        "given": "Mehmet Eren"
+      },
+      {
+        "family": "Asif",
+        "given": "Umar"
+      },
+      {
+        "family": "Jimeno Yepes",
+        "given": "Antonio"
+      },
+      {
+        "family": "Yohanandan",
+        "given": "Shivanthan"
+      },
+      {
+        "family": "Rabinovici-Cohen",
+        "given": "Simona"
+      },
+      {
+        "family": "Yi",
+        "given": "Darvin"
+      },
+      {
+        "family": "Hoff",
+        "given": "Bruce"
+      },
+      {
+        "family": "Yu",
+        "given": "Thomas"
+      },
+      {
+        "family": "Chaibub Neto",
+        "given": "Elias"
+      },
+      {
+        "family": "Rubin",
+        "given": "Daniel L."
+      },
+      {
+        "family": "Lindholm",
+        "given": "Peter"
+      },
+      {
+        "family": "Margolies",
+        "given": "Laurie R."
+      },
+      {
+        "family": "McBride",
+        "given": "Russell Bailey"
+      },
+      {
+        "family": "Rothstein",
+        "given": "Joseph H."
+      },
+      {
+        "family": "Sieh",
+        "given": "Weiva"
+      },
+      {
+        "family": "Ben-Ari",
+        "given": "Rami"
+      },
+      {
+        "family": "Harrer",
+        "given": "Stefan"
+      },
+      {
+        "family": "Trister",
+        "given": "Andrew"
+      },
+      {
+        "family": "Friend",
+        "given": "Stephen"
+      },
+      {
+        "family": "Norman",
+        "given": "Thea"
+      },
+      {
+        "family": "Sahiner",
+        "given": "Berkman"
+      },
+      {
+        "family": "Strand",
+        "given": "Fredrik"
+      },
+      {
+        "family": "Guinney",
+        "given": "Justin"
+      },
+      {
+        "family": "Stolovitzky",
+        "given": "Gustavo"
+      },
+      {
+        "family": "Mackey",
+        "given": "Lester"
+      },
+      {
+        "family": "Cahoon",
+        "given": "Joyce"
+      },
+      {
+        "family": "Shen",
+        "given": "Li"
+      },
+      {
+        "family": "Sohn",
+        "given": "Jae Ho"
+      },
+      {
+        "family": "Trivedi",
+        "given": "Hari"
+      },
+      {
+        "family": "Shen",
+        "given": "Yiqiu"
+      },
+      {
+        "family": "Buturovic",
+        "given": "Ljubomir"
+      },
+      {
+        "family": "Pereira",
+        "given": "Jose Costa"
+      },
+      {
+        "family": "Cardoso",
+        "given": "Jaime S."
+      },
+      {
+        "family": "Castro",
+        "given": "Eduardo"
+      },
+      {
+        "family": "Kalleberg",
+        "given": "Karl Trygve"
+      },
+      {
+        "family": "Pelka",
+        "given": "Obioma"
+      },
+      {
+        "family": "Nedjar",
+        "given": "Imane"
+      },
+      {
+        "family": "Geras",
+        "given": "Krzysztof J."
+      },
+      {
+        "family": "Nensa",
+        "given": "Felix"
+      },
+      {
+        "family": "Goan",
+        "given": "Ethan"
+      },
+      {
+        "family": "Koitka",
+        "given": "Sven"
+      },
+      {
+        "family": "Caballero",
+        "given": "Luis"
+      },
+      {
+        "family": "Cox",
+        "given": "David D."
+      },
+      {
+        "family": "Krishnaswamy",
+        "given": "Pavitra"
+      },
+      {
+        "family": "Pandey",
+        "given": "Gaurav"
+      },
+      {
+        "family": "Friedrich",
+        "given": "Christoph M."
+      },
+      {
+        "family": "Perrin",
+        "given": "Dimitri"
+      },
+      {
+        "family": "Fookes",
+        "given": "Clinton"
+      },
+      {
+        "family": "Shi",
+        "given": "Bibo"
+      },
+      {
+        "family": "Cardoso Negrie",
+        "given": "Gerard"
+      },
+      {
+        "family": "Kawczynski",
+        "given": "Michael"
+      },
+      {
+        "family": "Cho",
+        "given": "Kyunghyun"
+      },
+      {
+        "family": "Khoo",
+        "given": "Can Son"
+      },
+      {
+        "family": "Lo",
+        "given": "Joseph Y."
+      },
+      {
+        "family": "Sorensen",
+        "given": "A. Gregory"
+      },
+      {
+        "family": "Jung",
+        "given": "Hwejin"
+      },
+      {
+        "literal": "and the DM DREAM Consortium"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          2
+        ]
+      ]
+    },
+    "container-title": "JAMA Network Open",
+    "DOI": "10.1001/jamanetworkopen.2020.0265",
+    "volume": "3",
+    "issue": "3",
+    "page": "e200265",
+    "publisher": "American Medical Association (AMA)",
+    "title": "Evaluation of Combined Artificial Intelligence and Radiologist Assessment to Interpret Screening Mammograms",
+    "URL": "https://doi.org/gg2dvg",
+    "PMCID": "PMC7052735",
+    "PMID": "32119094",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1001/jamanetworkopen.2020.0265"
+  },
+  {
+    "type": "article-journal",
+    "id": "nw5braAS",
+    "author": [
+      {
+        "family": "Guinney",
+        "given": "Justin"
+      },
+      {
+        "family": "Saez-Rodriguez",
+        "given": "Julio"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          5,
+          9
+        ]
+      ]
+    },
+    "container-title": "Nature Biotechnology",
+    "DOI": "10.1038/nbt.4128",
+    "volume": "36",
+    "issue": "5",
+    "page": "391-392",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "Alternative models for sharing confidential biomedical data",
+    "URL": "https://doi.org/gg2dvh",
+    "PMID": "29734317",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1038/nbt.4128"
+  },
+  {
+    "type": "article-journal",
+    "id": "LArYGREf",
+    "author": [
+      {
+        "family": "Bot",
+        "given": "Brian M."
+      },
+      {
+        "family": "Suver",
+        "given": "Christine"
+      },
+      {
+        "family": "Neto",
+        "given": "Elias Chaibub"
+      },
+      {
+        "family": "Kellen",
+        "given": "Michael"
+      },
+      {
+        "family": "Klein",
+        "given": "Arno"
+      },
+      {
+        "family": "Bare",
+        "given": "Christopher"
+      },
+      {
+        "family": "Doerr",
+        "given": "Megan"
+      },
+      {
+        "family": "Pratap",
+        "given": "Abhishek"
+      },
+      {
+        "family": "Wilbanks",
+        "given": "John"
+      },
+      {
+        "family": "Dorsey",
+        "given": "E. Ray"
+      },
+      {
+        "family": "Friend",
+        "given": "Stephen H."
+      },
+      {
+        "family": "Trister",
+        "given": "Andrew D."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          3
+        ]
+      ]
+    },
+    "container-title": "Scientific Data",
+    "DOI": "10.1038/sdata.2016.11",
+    "volume": "3",
+    "issue": "1",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "The mPower study, Parkinson disease mobile data collected using ResearchKit",
+    "URL": "https://doi.org/gg2dvj",
+    "PMCID": "PMC4776701",
+    "PMID": "26938265",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1038/sdata.2016.11"
+  },
+  {
+    "type": "article-journal",
+    "id": "ZvwpEFTA",
+    "author": [
+      {
+        "family": "Garrison",
+        "given": "Nanibaa' A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          12,
+          21
+        ]
+      ]
+    },
+    "container-title": "Science, Technology, & Human Values",
+    "DOI": "10.1177/0162243912470009",
+    "volume": "38",
+    "issue": "2",
+    "page": "201-223",
+    "publisher": "SAGE Publications",
+    "title": "Genomic Justice for Native Americans",
+    "URL": "https://doi.org/gg2dvk",
+    "PMCID": "PMC5310710",
+    "PMID": "28216801",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1177/0162243912470009"
+  },
+  {
+    "type": "article-journal",
+    "id": "10J8KhM0p",
+    "author": [
+      {
+        "family": "Cheah",
+        "given": "Phaik Yeong"
+      },
+      {
+        "family": "Tangseefa",
+        "given": "Decha"
+      },
+      {
+        "family": "Somsaman",
+        "given": "Aimatcha"
+      },
+      {
+        "family": "Chunsuttiwat",
+        "given": "Tri"
+      },
+      {
+        "family": "Nosten",
+        "given": "François"
+      },
+      {
+        "family": "Day",
+        "given": "Nicholas P. J."
+      },
+      {
+        "family": "Bull",
+        "given": "Susan"
+      },
+      {
+        "family": "Parker",
+        "given": "Michael"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          8,
+          21
+        ]
+      ]
+    },
+    "container-title": "Journal of Empirical Research on Human Research Ethics",
+    "DOI": "10.1177/1556264615592388",
+    "volume": "10",
+    "issue": "3",
+    "page": "278-289",
+    "publisher": "SAGE Publications",
+    "title": "Perceived Benefits, Harms, and Views About How to Share Data Responsibly",
+    "URL": "https://doi.org/f7pmw8",
+    "PMCID": "PMC4547202",
+    "PMID": "26297749",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1177/1556264615592388"
+  },
+  {
+    "id": "1GcAkA1FX",
+    "type": "book",
+    "title": "Antisocial media: how facebook disconnects US and undermines democracy",
+    "publisher": "Oxford University Press",
+    "publisher-place": "New York, NY, United States of America",
+    "number-of-pages": "1",
+    "source": "Library of Congress ISBN",
+    "event-place": "New York, NY, United States of America",
+    "ISBN": "9780190841171",
+    "call-number": "HM851",
+    "shortTitle": "Antisocial media",
+    "author": [
+      {
+        "family": "Vaidhyanathan",
+        "given": "Siva"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2018"
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: isbn:9780190841164"
+  },
+  {
+    "id": "11z0HOBna",
+    "type": "book",
+    "title": "Epistemic cultures: how the sciences make knowledge",
+    "publisher": "Harvard University Press",
+    "publisher-place": "Cambridge, Mass",
+    "number-of-pages": "329",
+    "source": "Library of Congress ISBN",
+    "event-place": "Cambridge, Mass",
+    "ISBN": "9780674258938",
+    "call-number": "Q175.32.K45 K57 1999",
+    "shortTitle": "Epistemic cultures",
+    "author": [
+      {
+        "family": "Knorr-Cetina",
+        "given": "K."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1999"
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: isbn:9780674258945"
+  },
+  {
+    "URL": "http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          16
+        ]
+      ]
+    },
+    "type": "webpage",
+    "id": "M5iKzYGg",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf"
+  }
+]
