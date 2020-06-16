@@ -1,7 +1,8 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Lara Mangravite
+- Avery Sen
+- John T. Wilbanks
 bibliography:
 - content/manual-references.json
 date-meta: '2020-06-16'
@@ -15,13 +16,13 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report" />
 
   <meta name="dc.date" content="2020-06-16" />
 
@@ -39,21 +40,23 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Lara Mangravite" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Sage Bionetworks" />
 
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_orcid" content="0000-0001-7841-3612" />
 
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="citation_author" content="Avery Sen" />
 
-  <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author_institution" content="Sentripetal" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author" content="John T. Wilbanks" />
 
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_institution" content="Sage Bionetworks" />
 
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_orcid" content="0000-0002-4510-0385" />
+
+  <meta name="twitter:creator" content="@wilbanks" />
 
   <link rel="canonical" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/" />
 
@@ -67,11 +70,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/96371cd54b357a7014b7ed29b9b8827d0915fbf1/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/72ceac044f7ebe636b461c5adfaa0c793d36cb13/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/96371cd54b357a7014b7ed29b9b8827d0915fbf1/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/72ceac044f7ebe636b461c5adfaa0c793d36cb13/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/96371cd54b357a7014b7ed29b9b8827d0915fbf1/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/72ceac044f7ebe636b461c5adfaa0c793d36cb13/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,15 +88,16 @@ header-includes: '<!--
 
   <!-- end Manubot generated metadata -->'
 keywords:
-- markdown
-- publishing
-- manubot
+- governance
+- data sharing
+- open science
+- open data
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report'
 ...
 
 
@@ -103,9 +107,9 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/96371cd54b357a7014b7ed29b9b8827d0915fbf1/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/72ceac044f7ebe636b461c5adfaa0c793d36cb13/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@96371cd](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/96371cd54b357a7014b7ed29b9b8827d0915fbf1)
+from [Sage-Bionetworks/governanceGreenPaper@72ceac0](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/72ceac044f7ebe636b461c5adfaa0c793d36cb13)
 on June 16, 2020.
 </em></small>
 
@@ -113,25 +117,25 @@ on June 16, 2020.
 
 
 
-+ **John Doe**<br>
++ **Lara Mangravite**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [0000-0001-7841-3612](https://orcid.org/0000-0001-7841-3612)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Sage Bionetworks
   </small>
 
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
++ **Avery Sen**<br><br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Sentripetal
+  </small>
+
++ **John T. Wilbanks**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-4510-0385](https://orcid.org/0000-0002-4510-0385)
+    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    [wilbanks](https://twitter.com/wilbanks)<br>
+  <small>
+     Sage Bionetworks
   </small>
 
 
