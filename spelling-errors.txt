@@ -6,13 +6,13 @@ Concordantly
 curation
 dataset
 designable
-Findable
+findable
 funders
 Greshake
 Guinney
 identifiability
 incentivize
-Interoperable
+interoperable
 Mangravite
 mPower
 Ostrom
@@ -26,4 +26,4 @@ Sentripetal
 Shipp
 surveilled
 toolkits
-wilbanks
+Wilbanks
