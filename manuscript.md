@@ -70,11 +70,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/2d27baae1b6837b2a82d9e6892ce18388469896e/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/892cc550bf9cb724c8daee957e267c3c376eb96d/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/2d27baae1b6837b2a82d9e6892ce18388469896e/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/892cc550bf9cb724c8daee957e267c3c376eb96d/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/2d27baae1b6837b2a82d9e6892ce18388469896e/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/892cc550bf9cb724c8daee957e267c3c376eb96d/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -107,9 +107,9 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/2d27baae1b6837b2a82d9e6892ce18388469896e/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/892cc550bf9cb724c8daee957e267c3c376eb96d/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@2d27baa](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/2d27baae1b6837b2a82d9e6892ce18388469896e)
+from [Sage-Bionetworks/governanceGreenPaper@892cc55](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/892cc550bf9cb724c8daee957e267c3c376eb96d)
 on June 16, 2020.
 </em></small>
 
@@ -142,6 +142,13 @@ on June 16, 2020.
 
 ## Abstract {.page_break_before}
 
+This report provides a landscape analysis of of models of governance for open data sharing based on our observations in the biomedical sciences. We offer an overview of those observations and show areas where we think this work can expand to supply further support for open data sharing outside the sciences. 
+
+The central argument of this paper is that the “right” system of governance is determined by first understanding the nature of the collaborative activities intended. These activities map to types of *governance structures*, which in turn can be built out of standardized parts — what we call *governance design patterns*. In this way, governance for data science can be easy to build, follow key laws and ethics regimes, and enable innovative models of collaboration. We provide an initial survey of structures and design patterns, as well as examples of how we leverage this approach to rapidly build out ethics-centered governance in biomedical research. 
+
+As this paper itself will be deposited in GitHub, we also envision a contributory process whereby this inventory can be extended with more resources and links over time. We can envision communities using these design resources to create clearly governed networks. We can also imagine small private collectives amongst corporations and their partners, both academic and smaller businesses, using these designs as a “stack” to govern data science beyond biomedical research.
+
+While there is no one-size-fits-all solution, we argue for learning from ongoing data science collaborations and building on from existing standards and tools. And in so doing, we argue for data governance as a discipline worthy of expertise, attention, standards, and innovation.
 
 
 
