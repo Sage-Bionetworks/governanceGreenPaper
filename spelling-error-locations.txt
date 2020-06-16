@@ -35,3 +35,5 @@ content/03.gov-structures.md:19:Ostrom
 content/03.gov-structures.md:19:Ostrom
 content/03.gov-structures.md:28:surveilled
 content/03.gov-structures.md:29:curation
+content/03.gov-structures.md:63:researcer
+content/03.gov-structures.md:68:toolkits

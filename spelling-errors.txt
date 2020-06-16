@@ -6,7 +6,7 @@ Concordantly
 curation
 dataset
 designable
-findable
+Findable
 funders
 Greshake
 Guinney
@@ -19,9 +19,11 @@ Ostrom
 Parkinsons
 phonation
 pre
+researcer
 Saez
 Schwarte
 Sentripetal
 Shipp
 surveilled
-Wilbanks
+toolkits
+wilbanks

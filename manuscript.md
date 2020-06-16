@@ -70,11 +70,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/84cb2a64353493af905e9c654fa0824c42ccdb2f/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/300c9984f3fc7e5d8aa56cabf5300e77168607c3/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/84cb2a64353493af905e9c654fa0824c42ccdb2f/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/300c9984f3fc7e5d8aa56cabf5300e77168607c3/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/84cb2a64353493af905e9c654fa0824c42ccdb2f/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/300c9984f3fc7e5d8aa56cabf5300e77168607c3/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -107,9 +107,9 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/84cb2a64353493af905e9c654fa0824c42ccdb2f/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/300c9984f3fc7e5d8aa56cabf5300e77168607c3/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@84cb2a6](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/84cb2a64353493af905e9c654fa0824c42ccdb2f)
+from [Sage-Bionetworks/governanceGreenPaper@300c998](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/300c9984f3fc7e5d8aa56cabf5300e77168607c3)
 on June 16, 2020.
 </em></small>
 
@@ -264,6 +264,36 @@ These two attributes are “upstream” from decisions such as which license to 
 ![
 Governance structures and their relationship types, by relative amounts of availability and freedom
 ](images/figure1.png){#fig:fig1}
+
+![
+Governance structure and process flow for pairwise collaborations
+](images/figure2.png){#fig:fig2}
+
+![
+Governance structure and process flow for open source collaborations
+](images/figure3.png){#fig:fig3}
+
+![
+Governance structure and process flow for federated query
+](images/figure4.png){#fig:fig4}
+
+![
+Governance structure and process flow for model-to-data
+](images/figure5.png){#fig:fig5}
+
+![
+Governance structure and process flow for trusted researcer environment
+](images/figure6.png){#fig:fig6}
+
+Governance structures are abstractions, not turnkey solutions that we can provide to would-be collaborators, whether open or closed. These structures are most useful to orient data collaborations: do we want a club, or a trusted environment? By asking these questions about how available data will be, and how much freedom a user will have to analyze and distribute, we can quickly identify the goals of the collaborating parties and move into drafting contract structures. 
+
+These structures employ governance design patterns: standard contracts and contractual language, user interfaces, teaching toolkits, and software templates. **These patterns can be assembled into a governance structure faster than drafting from scratch, while leveraging legal rigor of past work for regulated or protected data collaboration**.
+
+![
+Decisions about governance should start with research goals and nature of collaboration, then move to what structure and design elements are needed.
+](images/figure7.png){#fig:fig7}
+
+
 
 ## References {.page_break_before}
 
