@@ -33,5 +33,5 @@ content/03.gov-structures.md:19:amongst
 content/03.gov-structures.md:19:funders
 content/03.gov-structures.md:19:Ostrom
 content/03.gov-structures.md:19:Ostrom
-content/03.gov-structures.md:30:surveilled
-content/03.gov-structures.md:31:curation
+content/03.gov-structures.md:28:surveilled
+content/03.gov-structures.md:29:curation

@@ -70,11 +70,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/76e423253ed178e8af19905286c6e576168af972/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/84cb2a64353493af905e9c654fa0824c42ccdb2f/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/76e423253ed178e8af19905286c6e576168af972/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/84cb2a64353493af905e9c654fa0824c42ccdb2f/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/76e423253ed178e8af19905286c6e576168af972/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/84cb2a64353493af905e9c654fa0824c42ccdb2f/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -107,9 +107,9 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/76e423253ed178e8af19905286c6e576168af972/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/84cb2a64353493af905e9c654fa0824c42ccdb2f/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@76e4232](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/76e423253ed178e8af19905286c6e576168af972)
+from [Sage-Bionetworks/governanceGreenPaper@84cb2a6](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/84cb2a64353493af905e9c654fa0824c42ccdb2f)
 on June 16, 2020.
 </em></small>
 
@@ -242,8 +242,6 @@ The major governance structures we have observed are the following:
 - **Closed**: Data are held privately by a single party. 
 - **Closed and Restricted**: Data are held privately in order to protect a population, meet a legal requirement, or protect a secret.
 
-**Table 1**: Governance structures and their attributes
-
 | **Governance structure** | Number and linkage of parties | Degree of data Availability | Degree of freedom to use data | Challenges common to the governance success | Primary governance design pattern |
 | ----- | ----- | ----- | ----- | ----- | ----- |
 | **Pairwise** | One-to-one | Medium/High | Medium/High | Uneven status of parties, value of data | Informal or closed contract |
@@ -256,10 +254,16 @@ The major governance structures we have observed are the following:
 | **Closed** | Many (to none) | Low | High | Fundamental limits to collaboration | Public laws, security protocols |
 | **Closed and Restricted** | Some (to none) | Low | Low | Fundamental limits to collaboration | Public laws, security protocols |
 
+Table: Governance structures and their attributes
+{#tbl:structures}
+
 How many parties are involved, who is in charge of the negotiation, how significantly are the data regulated or the sensitive nature of the data — these are all attributes that can be used to characterize the governance structure. From the many potential attributes, we choose to organize governance structures by a) how broadly available they are — the total potential size of the user base — and b) how many freedoms a user has to freely use and distribute the data. 
 
 These two attributes are “upstream” from decisions such as which license to use, and form a pair of axes on which to orient structural governance analysis. These attributes provide a standardized form to describe governance structures in which one, some, or many parties either provide or use data, and the freedom to use and distribute data is variable. 
 
+![
+Governance structures and their relationship types, by relative amounts of availability and freedom
+](images/figure1.png){#fig:fig1}
 
 ## References {.page_break_before}
 
