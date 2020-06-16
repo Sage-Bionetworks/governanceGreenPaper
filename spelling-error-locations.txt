@@ -1,3 +1,6 @@
+content/00.front-matter.md:47:funders
+content/00.front-matter.md:47:funders
+content/00.front-matter.md:48:funders
 content/01.abstract.md:7:amongst
 content/02.intro-data-gov.md:9:incentivize
 content/02.intro-data-gov.md:11:amongst
@@ -15,3 +18,20 @@ content/02.intro-data-gov.md:36:Findable
 content/02.intro-data-gov.md:36:interoperable
 content/02.intro-data-gov.md:36:Interoperable
 content/02.intro-data-gov.md:48:pre
+content/03.gov-structures.md:7:Bardill
+content/03.gov-structures.md:7:surveilled
+content/03.gov-structures.md:9:Bionetworks
+content/03.gov-structures.md:15:pre
+content/03.gov-structures.md:15:Schwarte
+content/03.gov-structures.md:16:Shipp
+content/03.gov-structures.md:16:surveilled
+content/03.gov-structures.md:17:dataset
+content/03.gov-structures.md:17:Guinney
+content/03.gov-structures.md:17:Saez
+content/03.gov-structures.md:18:Greshake
+content/03.gov-structures.md:19:amongst
+content/03.gov-structures.md:19:funders
+content/03.gov-structures.md:19:Ostrom
+content/03.gov-structures.md:19:Ostrom
+content/03.gov-structures.md:30:surveilled
+content/03.gov-structures.md:31:curation
