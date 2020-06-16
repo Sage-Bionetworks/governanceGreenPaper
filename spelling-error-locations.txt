@@ -10,3 +10,8 @@ content/02.intro-data-gov.md:25:Parkinsons
 content/02.intro-data-gov.md:27:identifiability
 content/02.intro-data-gov.md:29:designable
 content/02.intro-data-gov.md:31:Bionetworks
+content/02.intro-data-gov.md:36:findable
+content/02.intro-data-gov.md:36:Findable
+content/02.intro-data-gov.md:36:interoperable
+content/02.intro-data-gov.md:36:Interoperable
+content/02.intro-data-gov.md:48:pre
