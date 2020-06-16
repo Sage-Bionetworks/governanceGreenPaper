@@ -1,26 +1,26 @@
 ---
-title: "Manuscript Title"
+title: "Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report"
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - governance
+  - data sharing
+  - open science
+  - open data
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    email: john.doe@something.com
+  - name: Lara Mangravite
+    initials: LM
+    orcid: 0000-0001-7841-3612
+    email: lara.mangravite@sagebase.org
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - Sage Bionetworks
+  - name: Avery Sen
+    initials: AS
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Sentripetal
+  - name: John T. Wilbanks
+    initials: JTW
+    orcid: 0000-0002-4510-0385
+    twitter: wilbanks
+    email: john.wilbanks@sagebase.org
+    affiliations:
+      - Sage Bionetworks
