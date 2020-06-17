@@ -1,324 +1,76 @@
 [
   {
     "type": "article-journal",
-    "id": "odIgeu98",
+    "id": "Piezz6R5",
     "author": [
       {
-        "family": "Schaffter",
-        "given": "Thomas"
+        "family": "Wilkins",
+        "given": "Consuelo H."
       },
       {
-        "family": "Buist",
-        "given": "Diana S. M."
+        "family": "Schindler",
+        "given": "Suzanne E."
       },
       {
-        "family": "Lee",
-        "given": "Christoph I."
-      },
-      {
-        "family": "Nikulin",
-        "given": "Yaroslav"
-      },
-      {
-        "family": "Ribli",
-        "given": "Dezso"
-      },
-      {
-        "family": "Guan",
-        "given": "Yuanfang"
-      },
-      {
-        "family": "Lotter",
-        "given": "William"
-      },
-      {
-        "family": "Jie",
-        "given": "Zequn"
-      },
-      {
-        "family": "Du",
-        "given": "Hao"
-      },
-      {
-        "family": "Wang",
-        "given": "Sijia"
-      },
-      {
-        "family": "Feng",
-        "given": "Jiashi"
-      },
-      {
-        "family": "Feng",
-        "given": "Mengling"
-      },
-      {
-        "family": "Kim",
-        "given": "Hyo-Eun"
-      },
-      {
-        "family": "Albiol",
-        "given": "Francisco"
-      },
-      {
-        "family": "Albiol",
-        "given": "Alberto"
-      },
-      {
-        "family": "Morrell",
-        "given": "Stephen"
-      },
-      {
-        "family": "Wojna",
-        "given": "Zbigniew"
-      },
-      {
-        "family": "Ahsen",
-        "given": "Mehmet Eren"
-      },
-      {
-        "family": "Asif",
-        "given": "Umar"
-      },
-      {
-        "family": "Jimeno Yepes",
-        "given": "Antonio"
-      },
-      {
-        "family": "Yohanandan",
-        "given": "Shivanthan"
-      },
-      {
-        "family": "Rabinovici-Cohen",
-        "given": "Simona"
-      },
-      {
-        "family": "Yi",
-        "given": "Darvin"
-      },
-      {
-        "family": "Hoff",
-        "given": "Bruce"
-      },
-      {
-        "family": "Yu",
-        "given": "Thomas"
-      },
-      {
-        "family": "Chaibub Neto",
-        "given": "Elias"
-      },
-      {
-        "family": "Rubin",
-        "given": "Daniel L."
-      },
-      {
-        "family": "Lindholm",
-        "given": "Peter"
-      },
-      {
-        "family": "Margolies",
-        "given": "Laurie R."
-      },
-      {
-        "family": "McBride",
-        "given": "Russell Bailey"
-      },
-      {
-        "family": "Rothstein",
-        "given": "Joseph H."
-      },
-      {
-        "family": "Sieh",
-        "given": "Weiva"
-      },
-      {
-        "family": "Ben-Ari",
-        "given": "Rami"
-      },
-      {
-        "family": "Harrer",
-        "given": "Stefan"
-      },
-      {
-        "family": "Trister",
-        "given": "Andrew"
-      },
-      {
-        "family": "Friend",
-        "given": "Stephen"
-      },
-      {
-        "family": "Norman",
-        "given": "Thea"
-      },
-      {
-        "family": "Sahiner",
-        "given": "Berkman"
-      },
-      {
-        "family": "Strand",
-        "given": "Fredrik"
-      },
-      {
-        "family": "Guinney",
-        "given": "Justin"
-      },
-      {
-        "family": "Stolovitzky",
-        "given": "Gustavo"
-      },
-      {
-        "family": "Mackey",
-        "given": "Lester"
-      },
-      {
-        "family": "Cahoon",
-        "given": "Joyce"
-      },
-      {
-        "family": "Shen",
-        "given": "Li"
-      },
-      {
-        "family": "Sohn",
-        "given": "Jae Ho"
-      },
-      {
-        "family": "Trivedi",
-        "given": "Hari"
-      },
-      {
-        "family": "Shen",
-        "given": "Yiqiu"
-      },
-      {
-        "family": "Buturovic",
-        "given": "Ljubomir"
-      },
-      {
-        "family": "Pereira",
-        "given": "Jose Costa"
-      },
-      {
-        "family": "Cardoso",
-        "given": "Jaime S."
-      },
-      {
-        "family": "Castro",
-        "given": "Eduardo"
-      },
-      {
-        "family": "Kalleberg",
-        "given": "Karl Trygve"
-      },
-      {
-        "family": "Pelka",
-        "given": "Obioma"
-      },
-      {
-        "family": "Nedjar",
-        "given": "Imane"
-      },
-      {
-        "family": "Geras",
-        "given": "Krzysztof J."
-      },
-      {
-        "family": "Nensa",
-        "given": "Felix"
-      },
-      {
-        "family": "Goan",
-        "given": "Ethan"
-      },
-      {
-        "family": "Koitka",
-        "given": "Sven"
-      },
-      {
-        "family": "Caballero",
-        "given": "Luis"
-      },
-      {
-        "family": "Cox",
-        "given": "David D."
-      },
-      {
-        "family": "Krishnaswamy",
-        "given": "Pavitra"
-      },
-      {
-        "family": "Pandey",
-        "given": "Gaurav"
-      },
-      {
-        "family": "Friedrich",
-        "given": "Christoph M."
-      },
-      {
-        "family": "Perrin",
-        "given": "Dimitri"
-      },
-      {
-        "family": "Fookes",
-        "given": "Clinton"
-      },
-      {
-        "family": "Shi",
-        "given": "Bibo"
-      },
-      {
-        "family": "Cardoso Negrie",
-        "given": "Gerard"
-      },
-      {
-        "family": "Kawczynski",
-        "given": "Michael"
-      },
-      {
-        "family": "Cho",
-        "given": "Kyunghyun"
-      },
-      {
-        "family": "Khoo",
-        "given": "Can Son"
-      },
-      {
-        "family": "Lo",
-        "given": "Joseph Y."
-      },
-      {
-        "family": "Sorensen",
-        "given": "A. Gregory"
-      },
-      {
-        "family": "Jung",
-        "given": "Hwejin"
-      },
-      {
-        "literal": "and the DM DREAM Consortium"
+        "family": "Morris",
+        "given": "John C."
       }
     ],
     "issued": {
       "date-parts": [
         [
           2020,
-          3,
-          2
+          6,
+          15
         ]
       ]
     },
-    "container-title": "JAMA Network Open",
-    "DOI": "10.1001/jamanetworkopen.2020.0265",
-    "volume": "3",
-    "issue": "3",
-    "page": "e200265",
+    "container-title": "JAMA Neurology",
+    "DOI": "10.1001/jamaneurol.2020.1614",
     "publisher": "American Medical Association (AMA)",
-    "title": "Evaluation of Combined Artificial Intelligence and Radiologist Assessment to Interpret Screening Mammograms",
-    "URL": "https://doi.org/gg2dvg",
-    "PMCID": "PMC7052735",
-    "PMID": "32119094",
-    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1001/jamanetworkopen.2020.0265"
+    "title": "Addressing Health Disparities Among Minority Populations",
+    "URL": "https://doi.org/gg2jdn",
+    "PMID": "32539100",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1001/jamaneurol.2020.1614"
+  },
+  {
+    "type": "chapter",
+    "id": "TQlIEC6o",
+    "author": [
+      {
+        "family": "Schwarte",
+        "given": "Andreas"
+      },
+      {
+        "family": "Haase",
+        "given": "Peter"
+      },
+      {
+        "family": "Hose",
+        "given": "Katja"
+      },
+      {
+        "family": "Schenkel",
+        "given": "Ralf"
+      },
+      {
+        "family": "Schmidt",
+        "given": "Michael"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "container-title": "Lecture Notes in Computer Science",
+    "DOI": "10.1007/978-3-642-25073-6_38",
+    "publisher": "Springer Berlin Heidelberg",
+    "title": "FedX: Optimization Techniques for Federated Query Processing on Linked Data",
+    "URL": "https://doi.org/bgnp5d",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1007/978-3-642-25073-6_38"
   },
   {
     "type": "article-journal",
@@ -358,6 +110,39 @@
   },
   {
     "type": "article-journal",
+    "id": "otY3SefD",
+    "author": [
+      {
+        "family": "Wilbanks",
+        "given": "John"
+      },
+      {
+        "family": "Friend",
+        "given": "Stephen H"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          4,
+          7
+        ]
+      ]
+    },
+    "container-title": "Nature Biotechnology",
+    "DOI": "10.1038/nbt.3516",
+    "volume": "34",
+    "issue": "4",
+    "page": "377-379",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "First, design for data sharing",
+    "URL": "https://doi.org/gbrb37",
+    "PMID": "26939011",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1038/nbt.3516"
+  },
+  {
+    "type": "article-journal",
     "id": "nw5braAS",
     "author": [
       {
@@ -388,6 +173,192 @@
     "URL": "https://doi.org/gg2dvh",
     "PMID": "29734317",
     "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1038/nbt.4128"
+  },
+  {
+    "type": "article-journal",
+    "id": "KLKqRnt",
+    "author": [
+      {
+        "family": "Guinney",
+        "given": "Justin"
+      },
+      {
+        "family": "Dienstmann",
+        "given": "Rodrigo"
+      },
+      {
+        "family": "Wang",
+        "given": "Xin"
+      },
+      {
+        "family": "de Reyniès",
+        "given": "Aurélien"
+      },
+      {
+        "family": "Schlicker",
+        "given": "Andreas"
+      },
+      {
+        "family": "Soneson",
+        "given": "Charlotte"
+      },
+      {
+        "family": "Marisa",
+        "given": "Laetitia"
+      },
+      {
+        "family": "Roepman",
+        "given": "Paul"
+      },
+      {
+        "family": "Nyamundanda",
+        "given": "Gift"
+      },
+      {
+        "family": "Angelino",
+        "given": "Paolo"
+      },
+      {
+        "family": "Bot",
+        "given": "Brian M"
+      },
+      {
+        "family": "Morris",
+        "given": "Jeffrey S"
+      },
+      {
+        "family": "Simon",
+        "given": "Iris M"
+      },
+      {
+        "family": "Gerster",
+        "given": "Sarah"
+      },
+      {
+        "family": "Fessler",
+        "given": "Evelyn"
+      },
+      {
+        "family": "De Sousa E Melo",
+        "given": "Felipe"
+      },
+      {
+        "family": "Missiaglia",
+        "given": "Edoardo"
+      },
+      {
+        "family": "Ramay",
+        "given": "Hena"
+      },
+      {
+        "family": "Barras",
+        "given": "David"
+      },
+      {
+        "family": "Homicsko",
+        "given": "Krisztian"
+      },
+      {
+        "family": "Maru",
+        "given": "Dipen"
+      },
+      {
+        "family": "Manyam",
+        "given": "Ganiraju C"
+      },
+      {
+        "family": "Broom",
+        "given": "Bradley"
+      },
+      {
+        "family": "Boige",
+        "given": "Valerie"
+      },
+      {
+        "family": "Perez-Villamil",
+        "given": "Beatriz"
+      },
+      {
+        "family": "Laderas",
+        "given": "Ted"
+      },
+      {
+        "family": "Salazar",
+        "given": "Ramon"
+      },
+      {
+        "family": "Gray",
+        "given": "Joe W"
+      },
+      {
+        "family": "Hanahan",
+        "given": "Douglas"
+      },
+      {
+        "family": "Tabernero",
+        "given": "Josep"
+      },
+      {
+        "family": "Bernards",
+        "given": "Rene"
+      },
+      {
+        "family": "Friend",
+        "given": "Stephen H"
+      },
+      {
+        "family": "Laurent-Puig",
+        "given": "Pierre"
+      },
+      {
+        "family": "Medema",
+        "given": "Jan Paul"
+      },
+      {
+        "family": "Sadanandam",
+        "given": "Anguraj"
+      },
+      {
+        "family": "Wessels",
+        "given": "Lodewyk"
+      },
+      {
+        "family": "Delorenzi",
+        "given": "Mauro"
+      },
+      {
+        "family": "Kopetz",
+        "given": "Scott"
+      },
+      {
+        "family": "Vermeulen",
+        "given": "Louis"
+      },
+      {
+        "family": "Tejpar",
+        "given": "Sabine"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          10,
+          12
+        ]
+      ]
+    },
+    "container-title": "Nature Medicine",
+    "DOI": "10.1038/nm.3967",
+    "volume": "21",
+    "issue": "11",
+    "page": "1350-1356",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "The consensus molecular subtypes of colorectal cancer",
+    "URL": "https://doi.org/f7xmph",
+    "PMCID": "PMC4636487",
+    "PMID": "26457759",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1038/nm.3967"
   },
   {
     "type": "article-journal",
@@ -461,6 +432,445 @@
     "PMCID": "PMC4776701",
     "PMID": "26938265",
     "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1038/sdata.2016.11"
+  },
+  {
+    "type": "article-journal",
+    "id": "6DjakjNS",
+    "author": [
+      {
+        "family": "Wilkinson",
+        "given": "Mark D."
+      },
+      {
+        "family": "Dumontier",
+        "given": "Michel"
+      },
+      {
+        "family": "Aalbersberg",
+        "given": "IJsbrand Jan"
+      },
+      {
+        "family": "Appleton",
+        "given": "Gabrielle"
+      },
+      {
+        "family": "Axton",
+        "given": "Myles"
+      },
+      {
+        "family": "Baak",
+        "given": "Arie"
+      },
+      {
+        "family": "Blomberg",
+        "given": "Niklas"
+      },
+      {
+        "family": "Boiten",
+        "given": "Jan-Willem"
+      },
+      {
+        "family": "da Silva Santos",
+        "given": "Luiz Bonino"
+      },
+      {
+        "family": "Bourne",
+        "given": "Philip E."
+      },
+      {
+        "family": "Bouwman",
+        "given": "Jildau"
+      },
+      {
+        "family": "Brookes",
+        "given": "Anthony J."
+      },
+      {
+        "family": "Clark",
+        "given": "Tim"
+      },
+      {
+        "family": "Crosas",
+        "given": "Mercè"
+      },
+      {
+        "family": "Dillo",
+        "given": "Ingrid"
+      },
+      {
+        "family": "Dumon",
+        "given": "Olivier"
+      },
+      {
+        "family": "Edmunds",
+        "given": "Scott"
+      },
+      {
+        "family": "Evelo",
+        "given": "Chris T."
+      },
+      {
+        "family": "Finkers",
+        "given": "Richard"
+      },
+      {
+        "family": "Gonzalez-Beltran",
+        "given": "Alejandra"
+      },
+      {
+        "family": "Gray",
+        "given": "Alasdair J.G."
+      },
+      {
+        "family": "Groth",
+        "given": "Paul"
+      },
+      {
+        "family": "Goble",
+        "given": "Carole"
+      },
+      {
+        "family": "Grethe",
+        "given": "Jeffrey S."
+      },
+      {
+        "family": "Heringa",
+        "given": "Jaap"
+      },
+      {
+        "family": "’t Hoen",
+        "given": "Peter A.C"
+      },
+      {
+        "family": "Hooft",
+        "given": "Rob"
+      },
+      {
+        "family": "Kuhn",
+        "given": "Tobias"
+      },
+      {
+        "family": "Kok",
+        "given": "Ruben"
+      },
+      {
+        "family": "Kok",
+        "given": "Joost"
+      },
+      {
+        "family": "Lusher",
+        "given": "Scott J."
+      },
+      {
+        "family": "Martone",
+        "given": "Maryann E."
+      },
+      {
+        "family": "Mons",
+        "given": "Albert"
+      },
+      {
+        "family": "Packer",
+        "given": "Abel L."
+      },
+      {
+        "family": "Persson",
+        "given": "Bengt"
+      },
+      {
+        "family": "Rocca-Serra",
+        "given": "Philippe"
+      },
+      {
+        "family": "Roos",
+        "given": "Marco"
+      },
+      {
+        "family": "van Schaik",
+        "given": "Rene"
+      },
+      {
+        "family": "Sansone",
+        "given": "Susanna-Assunta"
+      },
+      {
+        "family": "Schultes",
+        "given": "Erik"
+      },
+      {
+        "family": "Sengstag",
+        "given": "Thierry"
+      },
+      {
+        "family": "Slater",
+        "given": "Ted"
+      },
+      {
+        "family": "Strawn",
+        "given": "George"
+      },
+      {
+        "family": "Swertz",
+        "given": "Morris A."
+      },
+      {
+        "family": "Thompson",
+        "given": "Mark"
+      },
+      {
+        "family": "van der Lei",
+        "given": "Johan"
+      },
+      {
+        "family": "van Mulligen",
+        "given": "Erik"
+      },
+      {
+        "family": "Velterop",
+        "given": "Jan"
+      },
+      {
+        "family": "Waagmeester",
+        "given": "Andra"
+      },
+      {
+        "family": "Wittenburg",
+        "given": "Peter"
+      },
+      {
+        "family": "Wolstencroft",
+        "given": "Katherine"
+      },
+      {
+        "family": "Zhao",
+        "given": "Jun"
+      },
+      {
+        "family": "Mons",
+        "given": "Barend"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          3,
+          15
+        ]
+      ]
+    },
+    "container-title": "Scientific Data",
+    "DOI": "10.1038/sdata.2016.18",
+    "volume": "3",
+    "issue": "1",
+    "publisher": "Springer Science and Business Media LLC",
+    "title": "The FAIR Guiding Principles for scientific data management and stewardship",
+    "URL": "https://doi.org/bdd4",
+    "PMCID": "PMC4792175",
+    "PMID": "26978244",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1038/sdata.2016.18"
+  },
+  {
+    "type": "article-journal",
+    "id": "H3YsDbZv",
+    "author": [
+      {
+        "family": "Bardill",
+        "given": "Jessica"
+      },
+      {
+        "family": "Garrison",
+        "given": "Nanibaa' A."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2015,
+          8,
+          25
+        ]
+      ]
+    },
+    "container-title": "The American Journal of Bioethics",
+    "DOI": "10.1080/15265161.2015.1062164",
+    "volume": "15",
+    "issue": "9",
+    "page": "73-75",
+    "publisher": "Informa UK Limited",
+    "title": "Naming Indigenous Concerns, Framing Considerations for Stored Biospecimens",
+    "URL": "https://doi.org/gg2jdp",
+    "PMID": "26305764",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1080/15265161.2015.1062164"
+  },
+  {
+    "type": "article-journal",
+    "id": "12HajymAr",
+    "author": [
+      {
+        "family": "Greshake Tzovaras",
+        "given": "Bastian"
+      },
+      {
+        "family": "Angrist",
+        "given": "Misha"
+      },
+      {
+        "family": "Arvai",
+        "given": "Kevin"
+      },
+      {
+        "family": "Dulaney",
+        "given": "Mairi"
+      },
+      {
+        "family": "Estrada-Galiñanes",
+        "given": "Vero"
+      },
+      {
+        "family": "Gunderson",
+        "given": "Beau"
+      },
+      {
+        "family": "Head",
+        "given": "Tim"
+      },
+      {
+        "family": "Lewis",
+        "given": "Dana"
+      },
+      {
+        "family": "Nov",
+        "given": "Oded"
+      },
+      {
+        "family": "Shaer",
+        "given": "Orit"
+      },
+      {
+        "family": "Tzovara",
+        "given": "Athina"
+      },
+      {
+        "family": "Bobe",
+        "given": "Jason"
+      },
+      {
+        "family": "Price Ball",
+        "given": "Mad"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6
+        ]
+      ]
+    },
+    "container-title": "GigaScience",
+    "DOI": "10.1093/gigascience/giz076",
+    "volume": "8",
+    "issue": "6",
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Open Humans: A platform for participant-centered research and personal data exploration",
+    "URL": "https://doi.org/gg2jdq",
+    "PMCID": "PMC6593360",
+    "PMID": "31241153",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1093/gigascience/giz076"
+  },
+  {
+    "type": "article-journal",
+    "id": "H7PziDQ7",
+    "author": [
+      {
+        "family": "Walonoski",
+        "given": "Jason"
+      },
+      {
+        "family": "Kramer",
+        "given": "Mark"
+      },
+      {
+        "family": "Nichols",
+        "given": "Joseph"
+      },
+      {
+        "family": "Quina",
+        "given": "Andre"
+      },
+      {
+        "family": "Moesel",
+        "given": "Chris"
+      },
+      {
+        "family": "Hall",
+        "given": "Dylan"
+      },
+      {
+        "family": "Duffett",
+        "given": "Carlton"
+      },
+      {
+        "family": "Dube",
+        "given": "Kudakwashe"
+      },
+      {
+        "family": "Gallagher",
+        "given": "Thomas"
+      },
+      {
+        "family": "McLachlan",
+        "given": "Scott"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          3
+        ]
+      ]
+    },
+    "container-title": "Journal of the American Medical Informatics Association",
+    "DOI": "10.1093/jamia/ocx079",
+    "volume": "25",
+    "issue": "3",
+    "page": "230-238",
+    "publisher": "Oxford University Press (OUP)",
+    "title": "Synthea: An approach, method, and software mechanism for generating synthetic patients and the synthetic electronic health care record",
+    "URL": "https://doi.org/gb4mkg",
+    "PMID": "29025144",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1093/jamia/ocx079"
+  },
+  {
+    "type": "article-journal",
+    "id": "32SWh1ey",
+    "author": [
+      {
+        "family": "Collins",
+        "given": "F. S."
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2003,
+          4,
+          11
+        ]
+      ]
+    },
+    "container-title": "Science",
+    "DOI": "10.1126/science.1084564",
+    "volume": "300",
+    "issue": "5617",
+    "page": "286-290",
+    "publisher": "American Association for the Advancement of Science (AAAS)",
+    "title": "The Human Genome Project: Lessons from Large-Scale Biology",
+    "URL": "https://doi.org/d2zg2r",
+    "PMID": "12690187",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1126/science.1084564"
   },
   {
     "type": "article-journal",
@@ -585,6 +995,206 @@
   },
   {
     "type": "article-journal",
+    "id": "dIYXacYW",
+    "author": [
+      {
+        "family": "Seyednasrollah",
+        "given": "Fatemeh"
+      },
+      {
+        "family": "Koestler",
+        "given": "Devin C."
+      },
+      {
+        "family": "Wang",
+        "given": "Tao"
+      },
+      {
+        "family": "Piccolo",
+        "given": "Stephen R."
+      },
+      {
+        "family": "Vega",
+        "given": "Roberto"
+      },
+      {
+        "family": "Greiner",
+        "given": "Russell"
+      },
+      {
+        "family": "Fuchs",
+        "given": "Christiane"
+      },
+      {
+        "family": "Gofer",
+        "given": "Eyal"
+      },
+      {
+        "family": "Kumar",
+        "given": "Luke"
+      },
+      {
+        "family": "Wolfinger",
+        "given": "Russell D."
+      },
+      {
+        "family": "Kanigel Winner",
+        "given": "Kimberly"
+      },
+      {
+        "family": "Bare",
+        "given": "Chris"
+      },
+      {
+        "family": "Neto",
+        "given": "Elias Chaibub"
+      },
+      {
+        "family": "Yu",
+        "given": "Thomas"
+      },
+      {
+        "family": "Shen",
+        "given": "Liji"
+      },
+      {
+        "family": "Abdallah",
+        "given": "Kald"
+      },
+      {
+        "family": "Norman",
+        "given": "Thea"
+      },
+      {
+        "family": "Stolovitzky",
+        "given": "Gustavo"
+      },
+      {
+        "family": "Soule",
+        "given": "Howard R."
+      },
+      {
+        "family": "Sweeney",
+        "given": "Christopher J."
+      },
+      {
+        "family": "Ryan",
+        "given": "Charles J."
+      },
+      {
+        "family": "Scher",
+        "given": "Howard I."
+      },
+      {
+        "family": "Sartor",
+        "given": "Oliver"
+      },
+      {
+        "family": "Elo",
+        "given": "Laura L."
+      },
+      {
+        "family": "Zhou",
+        "given": "Fang Liz"
+      },
+      {
+        "family": "Guinney",
+        "given": "Justin"
+      },
+      {
+        "family": "Costello",
+        "given": "James C."
+      },
+      {
+        "literal": "Prostate Cancer DREAM Challenge Community"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2017,
+          11
+        ]
+      ]
+    },
+    "container-title": "JCO Clinical Cancer Informatics",
+    "DOI": "10.1200/cci.17.00018",
+    "issue": "1",
+    "page": "1-15",
+    "publisher": "American Society of Clinical Oncology (ASCO)",
+    "title": "A DREAM Challenge to Build Prediction Models for Short-Term Discontinuation of Docetaxel in Metastatic Castration-Resistant Prostate Cancer",
+    "URL": "https://doi.org/gg2jdr",
+    "PMCID": "PMC6874023",
+    "PMID": "30657384",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1200/cci.17.00018"
+  },
+  {
+    "type": "article-journal",
+    "id": "abUbT01W",
+    "author": [
+      {
+        "family": "Ostrom",
+        "given": "Elinor"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2010,
+          6
+        ]
+      ]
+    },
+    "container-title": "American Economic Review",
+    "DOI": "10.1257/aer.100.3.641",
+    "volume": "100",
+    "issue": "3",
+    "page": "641-672",
+    "publisher": "American Economic Association",
+    "title": "Beyond Markets and States: Polycentric Governance of Complex Economic Systems",
+    "URL": "https://doi.org/dhj38d",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1257/aer.100.3.641"
+  },
+  {
+    "type": "article-journal",
+    "id": "5plIyD5u",
+    "author": [
+      {
+        "family": "Nugent",
+        "given": "Timothy"
+      },
+      {
+        "family": "Upton",
+        "given": "David"
+      },
+      {
+        "family": "Cimpoesu",
+        "given": "Mihai"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          10,
+          20
+        ]
+      ]
+    },
+    "abstract": "The scientific credibility of findings from clinical trials can be undermined by a range of problems including missing data, endpoint switching, data dredging, and selective publication. Together, these issues have contributed to systematically distorted perceptions regarding the benefits and risks of treatments. While these issues have been well documented and widely discussed within the profession, legislative intervention has seen limited success. Recently, a method was described for using a blockchain to prove the existence of documents describing pre-specified endpoints in clinical trials. Here, we extend the idea by using smart contracts - code, and data, that resides at a specific address in a blockchain, and whose execution is cryptographically validated by the network - to demonstrate how trust in clinical trials can be enforced and data manipulation eliminated. We show that blockchain smart contracts provide a novel technological solution to the data manipulation problem, by acting as trusted administrators and providing an immutable record of trial history.",
+    "container-title": "F1000Research",
+    "DOI": "10.12688/f1000research.9756.1",
+    "volume": "5",
+    "page": "2541",
+    "publisher": "F1000 Research Ltd",
+    "title": "Improving data transparency in clinical trials using blockchain smart contracts",
+    "URL": "https://doi.org/ggzsn4",
+    "PMCID": "PMC5357027",
+    "PMID": "28357041",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.12688/f1000research.9756.1"
+  },
+  {
+    "type": "article-journal",
     "id": "1DGkp34ZB",
     "author": [
       {
@@ -679,6 +1289,93 @@
   },
   {
     "type": "article-journal",
+    "id": "1As3pvk5w",
+    "author": [
+      {
+        "family": "Grayson",
+        "given": "Shira"
+      },
+      {
+        "family": "Suver",
+        "given": "Christine"
+      },
+      {
+        "family": "Wilbanks",
+        "given": "John"
+      },
+      {
+        "family": "Doerr",
+        "given": "Megan"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "container-title": "SSRN Electronic Journal",
+    "DOI": "10.2139/ssrn.3502410",
+    "publisher": "Elsevier BV",
+    "title": "Open Data Sharing in the 21st Century: Sage Bionetworks’ Qualified Research Program and Its Application in mHealth Data Release",
+    "URL": "https://doi.org/gg2jds",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.2139/ssrn.3502410"
+  },
+  {
+    "type": "article-journal",
+    "id": "MmeIANuu",
+    "author": [
+      {
+        "family": "Lane",
+        "given": "Julia"
+      },
+      {
+        "family": "Shipp",
+        "given": "Stephanie"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2008,
+          12,
+          2
+        ]
+      ]
+    },
+    "abstract": "This article describes the approach taken by NORC and NIST to provide remote researcher access to confidential business micro data. We have combined technical, legal and organizational approaches to protect respondent confidential. We have also instituted a number of technical approaches to encourage researchers to provide metadata documentation.",
+    "container-title": "International Journal of Digital Curation",
+    "DOI": "10.2218/ijdc.v2i1.20",
+    "volume": "2",
+    "issue": "1",
+    "page": "128-134",
+    "publisher": "Edinburgh University Library",
+    "title": "Using a Remote Access Data Enclave for Data Dissemination",
+    "URL": "https://doi.org/dfkk4c",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.2218/ijdc.v2i1.20"
+  },
+  {
+    "type": "article-journal",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          28
+        ]
+      ]
+    },
+    "container-title": "National Bureau of Economic Research",
+    "publisher": "National Bureau of Economic Research",
+    "title": ":{unav)",
+    "DOI": "10.3386/w25893",
+    "URL": "https://doi.org/gg2jdt",
+    "id": "uLLZUEu",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.3386/w25893"
+  },
+  {
+    "type": "article-journal",
     "id": "6j990tze",
     "author": [
       {
@@ -766,6 +1463,33 @@
     "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: isbn:9780674258945"
   },
   {
+    "id": "1DMYQt6hx",
+    "type": "book",
+    "title": "Evaluating the science and ethics of research on humans: a guide for IRB members",
+    "publisher": "Johns Hopkins University Press",
+    "publisher-place": "Baltimore",
+    "number-of-pages": "252",
+    "source": "Library of Congress ISBN",
+    "event-place": "Baltimore",
+    "ISBN": "9780801885013",
+    "call-number": "R853.H8 M39 2007",
+    "note": "OCLC: ocm66524999\nThis CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: isbn:9780801885020",
+    "shortTitle": "Evaluating the science and ethics of research on humans",
+    "author": [
+      {
+        "family": "Mazur",
+        "given": "Dennis John"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2007"
+        ]
+      ]
+    }
+  },
+  {
     "URL": "http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf",
     "issued": {
       "date-parts": [
@@ -779,6 +1503,67 @@
     "type": "webpage",
     "id": "M5iKzYGg",
     "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf"
+  },
+  {
+    "URL": "http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf",
+    "title": "\n            \n               Dr. Schneider’s FDP Presentation\n            \n         ",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          7
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Fuller",
+        "given": "Elizabeth"
+      }
+    ],
+    "type": "webpage",
+    "id": "isF1I1NM",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf"
+  },
+  {
+    "URL": "http://www.hcsrn.org/en/Tools%20&%20Materials/GrantsContracting/HCSRN_DUAToolkit.pdf",
+    "title": "\n            \n               Data Use Agreement (DUA) Toolkit:\n            \n         ",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          2,
+          24
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "thomee1",
+        "given": ""
+      }
+    ],
+    "type": "webpage",
+    "id": "j7nvT8JA",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:http://www.hcsrn.org/en/Tools%20&%20Materials/GrantsContracting/HCSRN_DUAToolkit.pdf"
+  },
+  {
+    "id": "1EZbXJTg3",
+    "type": "webpage",
+    "title": "WIRB Home",
+    "abstract": "WIRB sets the standard in the field of independent ethical review of biomedical research on human subjects.",
+    "URL": "http://www.wirb.com/Pages/Default.aspx",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:http://www.wirb.com/Pages/Default.aspx"
   },
   {
     "id": "1HXhjeVQY",
@@ -798,6 +1583,91 @@
     "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://allofus.nih.gov/about/who-we-are/institutional-review-board-irb-of-all-of-us-research-program"
   },
   {
+    "id": "10nEXzoVA",
+    "type": "webpage",
+    "title": "All of Us Research Program Begins Beta Testing of Data Platform | National Institutes of Health (NIH) — All of Us",
+    "abstract": "All of Us Research Program Begins Beta Testing of Data Platform | Español",
+    "URL": "https://allofus.nih.gov/news-events-and-media/announcements/all-us-research-program-begins-beta-testing-data-platform",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://allofus.nih.gov/news-events-and-media/announcements/all-us-research-program-begins-beta-testing-data-platform"
+  },
+  {
+    "id": "t5HXYtyn",
+    "type": "webpage",
+    "title": "Material Transfer Agreements (MTAs) for Technology | AUTM",
+    "abstract": "technology transfer agreement, material transfer agreement, material transfer agreement template",
+    "URL": "https://autm.net/surveys-and-tools/agreements/material-transfer-agreements/mta-toolkit/uniform-biological-material-transfer-agreement",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://autm.net/surveys-and-tools/agreements/material-transfer-agreements/mta-toolkit/uniform-biological-material-transfer-agreement"
+  },
+  {
+    "id": "1mFzspuo",
+    "type": "webpage",
+    "title": "Download Files",
+    "URL": "https://cancer.sanger.ac.uk/cosmic/download?genome=37",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://cancer.sanger.ac.uk/cosmic/download?genome=37"
+  },
+  {
+    "id": "bQ5U0G1W",
+    "type": "webpage",
+    "title": "Creative Commons — CC0 1.0 Universal",
+    "URL": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "116CDX0ks",
+    "type": "post-weblog",
+    "title": "Share your work",
+    "container-title": "Creative Commons",
+    "abstract": "Use Creative Commons tools to help share your work. Our free, easy-to-use copyright licenses provide a simple, standardized way to give your permission to share and use your creative work— on conditions of your choice. You can adopt one of our licenses by sharing on a platform, or choosing a license below.   Share your … Read More \"Share your work\"",
+    "URL": "https://creativecommons.org/share-your-work/",
+    "language": "en-US",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://creativecommons.org/share-your-work/"
+  },
+  {
     "URL": "https://datasociety.net/wp-content/uploads/2018/02/DataSociety_Fairness_In_Precision_Medicine_Feb2018.pdf",
     "issued": {
       "date-parts": [
@@ -810,5 +1680,532 @@
     "type": "webpage",
     "id": "EIBAJZJB",
     "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://datasociety.net/wp-content/uploads/2018/02/DataSociety_Fairness_In_Precision_Medicine_Feb2018.pdf"
+  },
+  {
+    "URL": "https://dbgap.ncbi.nlm.nih.gov/aa/dbgap_request_process.pdf",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          3,
+          23
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "hao",
+        "given": ""
+      }
+    ],
+    "type": "webpage",
+    "id": "BtzWfCJm",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://dbgap.ncbi.nlm.nih.gov/aa/dbgap_request_process.pdf"
+  },
+  {
+    "id": "1Cx91jrTR",
+    "type": "webpage",
+    "title": "What is a Privacy Toolkit? | Design System Template",
+    "URL": "https://designmanual.sagebionetworks.org/privacy_toolkit.html",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://designmanual.sagebionetworks.org/privacy_toolkit.html"
+  },
+  {
+    "id": "wthFx3D2",
+    "type": "webpage",
+    "title": "Standard Contractual Clauses (SCC)",
+    "container-title": "European Commission - European Commission",
+    "genre": "Text",
+    "abstract": "Standard contractual clauses for data transfers between EU and non-EU countries.",
+    "URL": "https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en",
+    "language": "en",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en"
+  },
+  {
+    "id": "ENjTbvYJ",
+    "type": "webpage",
+    "title": "FormSwift: Create Legal Documents",
+    "URL": "https://formswift.com/",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://formswift.com/"
+  },
+  {
+    "id": "zCTNJz8u",
+    "type": "book",
+    "title": "microsoft/Open-Use-of-Data-Agreement",
+    "publisher": "Microsoft",
+    "genre": "PowerShell",
+    "source": "GitHub",
+    "abstract": "Open Use of Data Agreement",
+    "URL": "https://github.com/microsoft/Open-Use-of-Data-Agreement",
+    "note": "original-date: 2019-06-25T21:26:36Z\nThis CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://github.com/microsoft/Open-Use-of-Data-Agreement",
+    "issued": {
+      "date-parts": [
+        [
+          "2020",
+          5,
+          9
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    }
+  },
+  {
+    "id": "1F7XRqf7Z",
+    "type": "webpage",
+    "title": "OpenDP",
+    "container-title": "GitHub",
+    "abstract": "Open Differential Privacy. OpenDP has 7 repositories available. Follow their code on GitHub.",
+    "URL": "https://github.com/opendifferentialprivacy",
+    "language": "en",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://github.com/opendifferentialprivacy"
+  },
+  {
+    "id": "CxfmIM8F",
+    "type": "webpage",
+    "title": "Protocol Templates for Clinical Trials | grants.nih.gov",
+    "URL": "https://grants.nih.gov/policy/clinical-trials/protocol-template.htm",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://grants.nih.gov/policy/clinical-trials/protocol-template.htm"
+  },
+  {
+    "id": "12mne7E5t",
+    "type": "post-weblog",
+    "title": "A data processing addendum for the CCPA?",
+    "abstract": "The digital advertising industry is undergoing a rapid regulatory transformation. The EU General Data Protection Regulation went into effect more than a year ago, and the California Consumer Privacy Act is right around the corner with a Jan. 1, 2020, effective date. Other jurisdictions are likely...",
+    "URL": "https://iapp.org/news/a/a-data-processing-addendum-for-the-ccpa/",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://iapp.org/news/a/a-data-processing-addendum-for-the-ccpa/"
+  },
+  {
+    "id": "e167exJ6",
+    "type": "post-weblog",
+    "title": "Sample Addendum Addressing Article 28 GDPR and Incorporating Standard Contractual Clauses for Controller to Processor Transfers of Personal Data",
+    "abstract": "DLA Piper’s Article 28 GDPR working group produced this “Example Data Protection Addendum Addressing Article 28 GDPR (Processor Terms) and Incorporating Standard Contractual Clauses for Controller to Processor Transfers of Personal Data from the EEA to a Third Country.”\nClick to View (DOC)...",
+    "URL": "https://iapp.org/resources/article/sample-addendum-addressing-article-28-gdpr-and-incorporating-standard-contractual-clauses-for-controller-to-processor-transfers-of-personal-data/",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://iapp.org/resources/article/sample-addendum-addressing-article-28-gdpr-and-incorporating-standard-contractual-clauses-for-controller-to-processor-transfers-of-personal-data/"
+  },
+  {
+    "id": "tPpeCQYm",
+    "type": "thesis",
+    "title": "IDENTIFICATION OF PRIMARY TIME DRIVERS IN COMPLIANCE FOR NON-MEDICAL STEM RESEARCH, AND BEST PRACTICES FOR REDUCING TIME INVESTMENT BY FACULTY",
+    "publisher": "Johns Hopkins University",
+    "genre": "Thesis",
+    "source": "jscholarship.library.jhu.edu",
+    "abstract": "An increase in time commitment for compliance measures in STEM research has been measured by the 2018 Federal Demonstration Partnership Survey (Schneider, 2019), despite widespread use of submission and signature technology, search engines, and regulatory streamlining. It is possible that this increase is primarily due to redundant and extraneous requirements, duplicate reports to multiple offices, insufficient or irrelevant training, lack of\nintegration between various technological platforms, or lack of proactive communication with\ninstitutional compliance entities.\n\nA survey has been administered to the end-user actors in this process, the faculty, postdoctoral associates, graduate students, and professional research associates/technicians that\nengage with compliance duties on a daily basis. This survey was designed to determine specific points of redundancy, duplication, confusion, and lack of training in various compliance areas; as\nwell as requesting subjective information to determine communication and process lapses.\n\nAccording to the survey results the primary time drivers in compliance functions are administratively oriented; centering on recording research results, the pre-award functions of\nproposal generation/proposal submission/budget creation and forecasting, the post-award functions including financial management, technical/financial interim and final reporting of various types, and publication and presentation creation. The primary requests rising from\nsubjective comments was to obtain more quality assistance trained in compliance to assist researchers, to reduce redundancy, duplication and conflict between requirements at department, industry, and agency level, and to streamline technological amenities to avoid duplication/redundancy and increase ease of use for the end-users.\n\nBased on these data a set of best practices has been constructed that can provide direction and possible solutions for these problems; increasing the efficacy of communication lines at all levels of the scientific research enterprise. As a result, these best practices can improve administrative processes and reduce time commitment for compliance that can be re-invested in\nresearch activity.",
+    "URL": "http://dspace-prod.mse.jhu.edu:8080/handle/1774.2/62063",
+    "language": "en_US",
+    "author": [
+      {
+        "family": "Michel",
+        "given": "Kathryn Kaufmann"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2019",
+          8,
+          5
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://jscholarship.library.jhu.edu/handle/1774.2/62063"
+  },
+  {
+    "id": "1A5Jsy5oq",
+    "type": "post-weblog",
+    "title": "Open Data Commons Open Database License (ODbL)",
+    "container-title": "Open Data Commons",
+    "abstract": "Attribution and Share-Alike for Data/Databases Human-readable summary Full legal text of current version (v1.0) How to Apply Insert prominently in all relevant locations a statement such as (replac…",
+    "URL": "https://opendatacommons.org/licenses/odbl/",
+    "language": "en-US",
+    "issued": {
+      "date-parts": [
+        [
+          "2009",
+          2,
+          17
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://opendatacommons.org/licenses/odbl/"
+  },
+  {
+    "id": "f8vwfMHl",
+    "type": "post-weblog",
+    "title": "Open Data Commons Public Domain Dedication and License (PDDL)",
+    "container-title": "Open Data Commons",
+    "abstract": "The PDDL places the data(base) in the public domain (waiving all rights): Plain language summary of the PDDL (with graphics!) Full legal text of the Public Domain Dedication and License v1.0 NB: Wh…",
+    "URL": "https://opendatacommons.org/licenses/pddl/",
+    "language": "en-US",
+    "issued": {
+      "date-parts": [
+        [
+          "2009",
+          2,
+          17
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://opendatacommons.org/licenses/pddl/"
+  },
+  {
+    "id": "11WcMMgG1",
+    "type": "webpage",
+    "title": "Elements of Informed Consent",
+    "container-title": "Sage Bionetworks",
+    "abstract": "The Elements of Informed Consent is a toolkit that will help researchers think through what information participants should receive as part of the consenting process in order to make an informed decision about whether or not to join a study. Developed by the Governance Team at Sage Bionetworks, the toolkit shares basic information and best […]",
+    "URL": "https://sagebionetworks.org/tools_resources/elements-of-informed-consent/",
+    "language": "en-US",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://sagebionetworks.org/tools_resources/elements-of-informed-consent/"
+  },
+  {
+    "URL": "https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_054586.pdf",
+    "title": "\n            \n               Microsoft Word - FBS-final.doc\n            \n         ",
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          4,
+          14
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "konstan",
+        "given": ""
+      }
+    ],
+    "type": "webpage",
+    "id": "wqupV8k1",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_054586.pdf"
+  },
+  {
+    "id": "AnAX84nk",
+    "type": "webpage",
+    "title": "Home - The Federal Demonstration Partnership",
+    "URL": "https://thefdp.org/default/",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://thefdp.org/default/"
+  },
+  {
+    "id": "H5KgzA16",
+    "type": "webpage",
+    "title": "Template Studio - Accord Project",
+    "abstract": "The open source smart legal contract stack",
+    "URL": "https://www.accordproject.org/projects/template-studio/",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://www.accordproject.org/projects/template-studio/"
+  },
+  {
+    "id": "hNKKknXk",
+    "type": "webpage",
+    "title": "PRM | CDISC",
+    "abstract": "PRM v1.0 PRM v1.0 provides a standard for planning and designing a research protocol with focus on study characteristics such as study design, eligibility criteria, and requirements from the ClinicalTrials.gov, World Health Organization (WHO) registries), and EudraCT registries. Protocol v1.0 assists in automating CRF creation and EHR configuration to support clinical research and data sharing. Protocol v1.0 was developed to support: a) protocol document generation; b) research study (clinical trial) registration and tracking; c) regulatory oversight and review; and d) single-sourced, downstream electronic consumption of protocol content, allowing users to create and quality control content once, and reuse for trial registries, protocol and case study report templates, SDTM study design and more. Download Protocol v1.0 Protocol Toolset v1.0 The Protocol Toolset v1.0 provides the following tools to assist in implementation: Study Outline Document Template - A template of suggested concepts for standardizing the Study Outline document. Study Outline Concepts List - A detailed mapping between the Study Outline Concepts, BRIDG, and the SDTM Trial Summary Domain to serve as a reference for further explanation of the concepts and any related notes. Protocol Wizard Web Demonstration Tool The Protocol Wizard Web Demonstration Tool produces a sample Study Outline document and related SDTM domains as defined in the CDISC Protocol Study Outline in the CDISC Protocol Toolset v1.0 and applicable SDTMIG trial design domains (both TS and TI Domains). This tool is provided for exploratory use as a proof-of-concept example implementation of the CDISC Protocol standard.",
+    "URL": "https://www.cdisc.org/standards/foundational/protocol",
+    "language": "en",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://www.cdisc.org/standards/foundational/protocol"
+  },
+  {
+    "id": "TUd0l6ty",
+    "type": "webpage",
+    "title": "Reclaiming Data Trusts",
+    "container-title": "Centre for International Governance Innovation",
+    "abstract": "The idea of using trusts to improve data governance is relatively new, but it shouldn’t come as a surprise; in a time of waning public trust in mass data collection and use, people are looking to scholarship and legal precedent for new solutions.",
+    "URL": "https://www.cigionline.org/articles/reclaiming-data-trusts",
+    "language": "en",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://www.cigionline.org/articles/reclaiming-data-trusts"
+  },
+  {
+    "id": "xQxy7NV0",
+    "type": "webpage",
+    "title": "Dataset Downloads | CMS",
+    "abstract": "Dataset Downloads\n\n\nBefore you download\n\nSome datasets, particularly the general payments dataset included in these zip files, are extremely large and may be burdensome to download and/or cause computer performance issues. Be advised that the file size, once downloaded, may still be prohibitive if you are not using a robust data viewing application.",
+    "URL": "https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads"
+  },
+  {
+    "URL": "https://www.everycrsreport.com/files/20121203_RL33528_ebc4cd402342b9bbf91bebdb37bbe6bdc06e57ae.pdf",
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          8,
+          7
+        ]
+      ]
+    },
+    "type": "webpage",
+    "id": "17uRi6Qj3",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://www.everycrsreport.com/files/20121203_RL33528_ebc4cd402342b9bbf91bebdb37bbe6bdc06e57ae.pdf"
+  },
+  {
+    "id": "1BpKAGz3u",
+    "type": "webpage",
+    "title": "Business Associate Contracts",
+    "container-title": "HHS.gov",
+    "genre": "Text",
+    "abstract": "Sample Business Assoicate Agreement Provisions",
+    "URL": "https://www.hhs.gov/hipaa/for-professionals/covered-entities/sample-business-associate-agreement-provisions/index.html",
+    "language": "en",
+    "author": [
+      {
+        "family": "Rights (OCR)",
+        "given": "Office for Civil"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2008",
+          5,
+          21
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://www.hhs.gov/hipaa/for-professionals/covered-entities/sample-business-associate-agreement-provisions/index.html"
+  },
+  {
+    "id": "14K4iV022",
+    "type": "webpage",
+    "title": "De Identified Information Sample Clauses",
+    "abstract": "De-Identified Information. Customer shall provide Accuray with only de-identified Protected Health Information, in accordance with the requirements of 45 CFR 164.514. Any information provided to or sh...",
+    "URL": "https://www.lawinsider.com/clause/de-identified-information",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://www.lawinsider.com/clause/de-identified-information"
+  },
+  {
+    "id": "G3NU3hO7",
+    "type": "webpage",
+    "title": "LegalZoom: Start a Business, Protect Your Family: LLC, Incorporate, Wills, Trademark, Legal Advice",
+    "container-title": "LegalZoom",
+    "abstract": "LegalZoom is the nation's leading provider of personalized, online legal solutions and legal documents for small businesses and families. Form an LLC, incorporate a business, make a will, register a trademark, get legal advice, and more online.",
+    "URL": "https://www.legalzoom.com",
+    "shortTitle": "LegalZoom",
+    "language": "en",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://www.legalzoom.com"
+  },
+  {
+    "id": "14prwQcfV",
+    "type": "webpage",
+    "title": "Science the Endless Frontier",
+    "URL": "https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm"
+  },
+  {
+    "id": "T5HotgQ3",
+    "type": "webpage",
+    "title": "Figure 4-1 - S&E Indicators 2018 | NSF - National Science Foundation",
+    "URL": "https://www.nsf.gov/statistics/2018/nsb20181/figures/fig04-01",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://www.nsf.gov/statistics/2018/nsb20181/figures/fig04-01"
+  },
+  {
+    "id": "80a55iFY",
+    "type": "post-weblog",
+    "title": "Data Use Policies – All of Us Research Hub",
+    "URL": "https://www.researchallofus.org/data-use-policies/",
+    "language": "en-US",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          17
+        ]
+      ]
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://www.researchallofus.org/data-use-policies/"
   }
 ]
