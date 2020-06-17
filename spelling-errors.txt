@@ -14,7 +14,7 @@ collectionMechanisms
 colorectal
 Concordantly
 consortiums
-COVID
+Covid
 CRC
 curation
 customizable
@@ -88,7 +88,7 @@ userQual
 Vannevar
 WCG
 wearables
-wilbanks
+Wilbanks
 WIRB
 Yu
 Zuckerberg

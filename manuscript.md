@@ -70,11 +70,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/f49e6d4fe4d3c273e4474b2f2825ea5041898aec/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/753de79fa2d338ae9f9e3957f3cb1ea40824958b/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/f49e6d4fe4d3c273e4474b2f2825ea5041898aec/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/753de79fa2d338ae9f9e3957f3cb1ea40824958b/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/f49e6d4fe4d3c273e4474b2f2825ea5041898aec/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/753de79fa2d338ae9f9e3957f3cb1ea40824958b/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -107,9 +107,9 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/f49e6d4fe4d3c273e4474b2f2825ea5041898aec/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/753de79fa2d338ae9f9e3957f3cb1ea40824958b/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@f49e6d4](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/f49e6d4fe4d3c273e4474b2f2825ea5041898aec)
+from [Sage-Bionetworks/governanceGreenPaper@753de79](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/753de79fa2d338ae9f9e3957f3cb1ea40824958b)
 on June 17, 2020.
 </em></small>
 
