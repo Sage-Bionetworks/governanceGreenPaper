@@ -34,7 +34,7 @@ Faden
 FDP
 FDP’s
 FHIR
-findable
+Findable
 FormSwift
 Funder
 funders

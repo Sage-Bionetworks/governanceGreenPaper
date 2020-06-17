@@ -70,11 +70,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/429cf6a882a2beefa71311a66e339ba3620dddaa/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/6f41720fef0ee318b5f9a61a56eef9191e237c4e/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/429cf6a882a2beefa71311a66e339ba3620dddaa/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/6f41720fef0ee318b5f9a61a56eef9191e237c4e/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/429cf6a882a2beefa71311a66e339ba3620dddaa/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/6f41720fef0ee318b5f9a61a56eef9191e237c4e/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -107,9 +107,9 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/429cf6a882a2beefa71311a66e339ba3620dddaa/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/6f41720fef0ee318b5f9a61a56eef9191e237c4e/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@429cf6a](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/429cf6a882a2beefa71311a66e339ba3620dddaa)
+from [Sage-Bionetworks/governanceGreenPaper@6f41720](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/6f41720fef0ee318b5f9a61a56eef9191e237c4e)
 on June 17, 2020.
 </em></small>
 
@@ -303,8 +303,6 @@ These structures employ governance design patterns: standard contracts and contr
 Decisions about governance should start with research goals and nature of collaboration, then move to what structure and design elements are needed.
 ](images/figure7.png){#fig:fig7 width="80%"}
 
------
-
 
 
 ## Governance Design Patterns
@@ -477,13 +475,16 @@ Our structure-design pattern for data governance pairing sits inside a growing u
 
 Like our structure-design pattern work here, the next stage builds on the way we develop software and other products using human-centered design. The work of using open science to generate reliable claims from representative data (and of sharing both responsibly) remains laborious, manual, and time consuming. We propose to extend data governance into software testing frameworks and information architecture to address this problem.
 
-**Reliable Analytic Test Framework**
+##### Reliable Analytic Test Framework
+
 Our Reliable Analytic Environment project looks to extend the concept of automated testing frameworks from software testing to create similar functionality to evaluate the reliability of analytical outputs. Instead of looking for software bugs, we will look for reliability bugs and their impacts. These could come from small sample sizes, failure to implement known best practices, and failure to test against known benchmarks.
 
-**Representative Algorithm Test Framework**
+##### Representative Algorithm Test Framework
+
 We propose to create a testing framework for representativeness in medical research. Drawing on research into social determinants of health and the rapidly increasing public health data sources available, we can begin to craft software services that take a person’s algorithmic designs and test them against public, semi-public, and potentially even semi-private data sets to evaluate the likelihood of under-sampling bias. This will allow data scientists to examine how their code looks beyond their non-representative samples, and see if they are accidentally encoding bias in their work — and, if so, what the impacts are.
 
-**Information Architecture of Data Governance**
+##### Information Architecture of Data Governance
+
 For areas such as informed consent, privacy policy, contract negotiation, and data licensing, simply generating and releasing tools and licenses has not been shown to have a nonlinear impact. One reason is that an enormous amount of tacit knowledge is required to use these kinds of tools appropriately, and they are often used in spaces that are distant from the data scientist (i.e., lawyers discuss these tools, not coders). Our IA work will explore how we can learn from libraries and other complex information spaces, so that we can find areas where we need to build tools. Tools could include pedagogical resources (up to and including online courses), software services, and testing environments. 
 
 ### Epilogue
