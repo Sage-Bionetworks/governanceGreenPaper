@@ -9,5 +9,5 @@ filters:
 - pandoc-citeproc
 wrap: preserve
 metadata:
-  csl: build/assets/style.csl
+  csl: https://raw.githubusercontent.com/citation-style-language/styles/master/council-of-science-editors.csl
   link-citations: true
