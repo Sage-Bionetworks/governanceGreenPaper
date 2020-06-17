@@ -14,14 +14,14 @@ collectionMechanisms
 colorectal
 Concordantly
 consortiums
-Covid
+COVID
 CRC
 curation
 customizable
 cybersecurity
 DAC
 DACs
-dataset
+Dataset
 dbGAP
 designable
 Devaney
@@ -42,7 +42,7 @@ Homomorphic
 IAPP
 identifiability
 incentivize
-Interoperable
+interoperable
 IRB
 Joon
 Kadija
@@ -88,7 +88,7 @@ userQual
 Vannevar
 WCG
 wearables
-Wilbanks
+wilbanks
 WIRB
 Yu
 Zuckerberg
