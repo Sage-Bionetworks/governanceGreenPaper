@@ -8,9 +8,6 @@ filters:
 - pandoc-manubot-cite
 - pandoc-citeproc
 wrap: preserve
-list-output-formats:
-- s
-- toc
 metadata:
   csl: https://raw.githubusercontent.com/citation-style-language/styles/master/council-of-science-editors-alphabetical.csl
   link-citations: true
