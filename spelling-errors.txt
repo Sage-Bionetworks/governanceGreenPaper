@@ -21,7 +21,7 @@ customizable
 cybersecurity
 DAC
 DACs
-Dataset
+dataset
 dbGAP
 designable
 Devaney
@@ -65,7 +65,7 @@ omic
 Parkinsons
 phonation
 policymaking
-Pre
+pre
 reconceive
 representativeness
 researcer
