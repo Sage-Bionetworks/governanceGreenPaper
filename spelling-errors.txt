@@ -30,7 +30,7 @@ Faden
 FDP
 FDP’s
 FHIR
-Findable
+findable
 Funder
 funders
 GDPR
@@ -42,7 +42,7 @@ Homomorphic
 IAPP
 identifiability
 incentivize
-interoperable
+Interoperable
 IRB
 Joon
 Kadija
@@ -65,7 +65,7 @@ omic
 Parkinsons
 phonation
 policymaking
-pre
+Pre
 reconceive
 representativeness
 researcer

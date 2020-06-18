@@ -1,6 +1,327 @@
 [
   {
     "type": "article-journal",
+    "id": "odIgeu98",
+    "author": [
+      {
+        "family": "Schaffter",
+        "given": "Thomas"
+      },
+      {
+        "family": "Buist",
+        "given": "Diana S. M."
+      },
+      {
+        "family": "Lee",
+        "given": "Christoph I."
+      },
+      {
+        "family": "Nikulin",
+        "given": "Yaroslav"
+      },
+      {
+        "family": "Ribli",
+        "given": "Dezso"
+      },
+      {
+        "family": "Guan",
+        "given": "Yuanfang"
+      },
+      {
+        "family": "Lotter",
+        "given": "William"
+      },
+      {
+        "family": "Jie",
+        "given": "Zequn"
+      },
+      {
+        "family": "Du",
+        "given": "Hao"
+      },
+      {
+        "family": "Wang",
+        "given": "Sijia"
+      },
+      {
+        "family": "Feng",
+        "given": "Jiashi"
+      },
+      {
+        "family": "Feng",
+        "given": "Mengling"
+      },
+      {
+        "family": "Kim",
+        "given": "Hyo-Eun"
+      },
+      {
+        "family": "Albiol",
+        "given": "Francisco"
+      },
+      {
+        "family": "Albiol",
+        "given": "Alberto"
+      },
+      {
+        "family": "Morrell",
+        "given": "Stephen"
+      },
+      {
+        "family": "Wojna",
+        "given": "Zbigniew"
+      },
+      {
+        "family": "Ahsen",
+        "given": "Mehmet Eren"
+      },
+      {
+        "family": "Asif",
+        "given": "Umar"
+      },
+      {
+        "family": "Jimeno Yepes",
+        "given": "Antonio"
+      },
+      {
+        "family": "Yohanandan",
+        "given": "Shivanthan"
+      },
+      {
+        "family": "Rabinovici-Cohen",
+        "given": "Simona"
+      },
+      {
+        "family": "Yi",
+        "given": "Darvin"
+      },
+      {
+        "family": "Hoff",
+        "given": "Bruce"
+      },
+      {
+        "family": "Yu",
+        "given": "Thomas"
+      },
+      {
+        "family": "Chaibub Neto",
+        "given": "Elias"
+      },
+      {
+        "family": "Rubin",
+        "given": "Daniel L."
+      },
+      {
+        "family": "Lindholm",
+        "given": "Peter"
+      },
+      {
+        "family": "Margolies",
+        "given": "Laurie R."
+      },
+      {
+        "family": "McBride",
+        "given": "Russell Bailey"
+      },
+      {
+        "family": "Rothstein",
+        "given": "Joseph H."
+      },
+      {
+        "family": "Sieh",
+        "given": "Weiva"
+      },
+      {
+        "family": "Ben-Ari",
+        "given": "Rami"
+      },
+      {
+        "family": "Harrer",
+        "given": "Stefan"
+      },
+      {
+        "family": "Trister",
+        "given": "Andrew"
+      },
+      {
+        "family": "Friend",
+        "given": "Stephen"
+      },
+      {
+        "family": "Norman",
+        "given": "Thea"
+      },
+      {
+        "family": "Sahiner",
+        "given": "Berkman"
+      },
+      {
+        "family": "Strand",
+        "given": "Fredrik"
+      },
+      {
+        "family": "Guinney",
+        "given": "Justin"
+      },
+      {
+        "family": "Stolovitzky",
+        "given": "Gustavo"
+      },
+      {
+        "family": "Mackey",
+        "given": "Lester"
+      },
+      {
+        "family": "Cahoon",
+        "given": "Joyce"
+      },
+      {
+        "family": "Shen",
+        "given": "Li"
+      },
+      {
+        "family": "Sohn",
+        "given": "Jae Ho"
+      },
+      {
+        "family": "Trivedi",
+        "given": "Hari"
+      },
+      {
+        "family": "Shen",
+        "given": "Yiqiu"
+      },
+      {
+        "family": "Buturovic",
+        "given": "Ljubomir"
+      },
+      {
+        "family": "Pereira",
+        "given": "Jose Costa"
+      },
+      {
+        "family": "Cardoso",
+        "given": "Jaime S."
+      },
+      {
+        "family": "Castro",
+        "given": "Eduardo"
+      },
+      {
+        "family": "Kalleberg",
+        "given": "Karl Trygve"
+      },
+      {
+        "family": "Pelka",
+        "given": "Obioma"
+      },
+      {
+        "family": "Nedjar",
+        "given": "Imane"
+      },
+      {
+        "family": "Geras",
+        "given": "Krzysztof J."
+      },
+      {
+        "family": "Nensa",
+        "given": "Felix"
+      },
+      {
+        "family": "Goan",
+        "given": "Ethan"
+      },
+      {
+        "family": "Koitka",
+        "given": "Sven"
+      },
+      {
+        "family": "Caballero",
+        "given": "Luis"
+      },
+      {
+        "family": "Cox",
+        "given": "David D."
+      },
+      {
+        "family": "Krishnaswamy",
+        "given": "Pavitra"
+      },
+      {
+        "family": "Pandey",
+        "given": "Gaurav"
+      },
+      {
+        "family": "Friedrich",
+        "given": "Christoph M."
+      },
+      {
+        "family": "Perrin",
+        "given": "Dimitri"
+      },
+      {
+        "family": "Fookes",
+        "given": "Clinton"
+      },
+      {
+        "family": "Shi",
+        "given": "Bibo"
+      },
+      {
+        "family": "Cardoso Negrie",
+        "given": "Gerard"
+      },
+      {
+        "family": "Kawczynski",
+        "given": "Michael"
+      },
+      {
+        "family": "Cho",
+        "given": "Kyunghyun"
+      },
+      {
+        "family": "Khoo",
+        "given": "Can Son"
+      },
+      {
+        "family": "Lo",
+        "given": "Joseph Y."
+      },
+      {
+        "family": "Sorensen",
+        "given": "A. Gregory"
+      },
+      {
+        "family": "Jung",
+        "given": "Hwejin"
+      },
+      {
+        "literal": "and the DM DREAM Consortium"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          2
+        ]
+      ]
+    },
+    "container-title": "JAMA Network Open",
+    "DOI": "10.1001/jamanetworkopen.2020.0265",
+    "volume": "3",
+    "issue": "3",
+    "page": "e200265",
+    "publisher": "American Medical Association (AMA)",
+    "title": "Evaluation of Combined Artificial Intelligence and Radiologist Assessment to Interpret Screening Mammograms",
+    "URL": "https://doi.org/gg2dvg",
+    "PMCID": "PMC7052735",
+    "PMID": "32119094",
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: doi:10.1001/jamanetworkopen.2020.0265"
+  },
+  {
+    "type": "article-journal",
     "id": "Piezz6R5",
     "author": [
       {
@@ -1362,7 +1683,7 @@
         [
           2019,
           6,
-          28
+          27
         ]
       ]
     },
@@ -1559,7 +1880,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1576,7 +1897,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1593,7 +1914,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1610,7 +1931,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1626,7 +1947,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1642,7 +1963,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1661,7 +1982,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1712,7 +2033,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1732,7 +2053,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1748,7 +2069,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1756,39 +2077,29 @@
   },
   {
     "id": "zCTNJz8u",
-    "type": "book",
+    "type": "webpage",
     "title": "microsoft/Open-Use-of-Data-Agreement",
-    "publisher": "Microsoft",
-    "genre": "PowerShell",
-    "source": "GitHub",
-    "abstract": "Open Use of Data Agreement",
+    "container-title": "GitHub",
+    "abstract": "Open Use of Data Agreement - Removing Barriers to Data Innovation - microsoft/Open-Use-of-Data-Agreement",
     "URL": "https://github.com/microsoft/Open-Use-of-Data-Agreement",
-    "note": "original-date: 2019-06-25T21:26:36Z\nThis CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://github.com/microsoft/Open-Use-of-Data-Agreement",
-    "issued": {
-      "date-parts": [
-        [
-          "2020",
-          5,
-          9
-        ]
-      ]
-    },
+    "language": "en",
     "accessed": {
       "date-parts": [
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
-    }
+    },
+    "note": "This CSL JSON Item was automatically generated by Manubot v0.3.1 using citation-by-identifier.\nstandard_id: url:https://github.com/microsoft/Open-Use-of-Data-Agreement"
   },
   {
     "id": "1F7XRqf7Z",
     "type": "webpage",
     "title": "OpenDP",
     "container-title": "GitHub",
-    "abstract": "Open Differential Privacy. OpenDP has 7 repositories available. Follow their code on GitHub.",
+    "abstract": "Open Differential Privacy. OpenDP has 8 repositories available. Follow their code on GitHub.",
     "URL": "https://github.com/opendifferentialprivacy",
     "language": "en",
     "accessed": {
@@ -1796,7 +2107,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1812,7 +2123,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1829,7 +2140,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1846,7 +2157,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1882,7 +2193,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1910,7 +2221,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1938,7 +2249,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1957,7 +2268,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -1995,7 +2306,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -2012,7 +2323,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -2030,7 +2341,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -2049,7 +2360,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -2066,7 +2377,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -2116,7 +2427,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -2133,7 +2444,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -2153,7 +2464,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -2169,7 +2480,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -2185,7 +2496,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },
@@ -2202,7 +2513,7 @@
         [
           "2020",
           6,
-          17
+          18
         ]
       ]
     },

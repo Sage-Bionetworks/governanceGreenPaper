@@ -5,7 +5,7 @@ author-meta:
 - John T. Wilbanks
 bibliography:
 - content/manual-references.json
-date-meta: '2020-06-17'
+date-meta: '2020-06-18'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -24,9 +24,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report" />
 
-  <meta name="dc.date" content="2020-06-17" />
+  <meta name="dc.date" content="2020-06-18" />
 
-  <meta name="citation_publication_date" content="2020-06-17" />
+  <meta name="citation_publication_date" content="2020-06-18" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -70,11 +70,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e8da327b838cd84bf803d68a76a9fa86bd6b0baf/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/508ee2643499fac02a007ee7f668e34ea611beac/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e8da327b838cd84bf803d68a76a9fa86bd6b0baf/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/508ee2643499fac02a007ee7f668e34ea611beac/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e8da327b838cd84bf803d68a76a9fa86bd6b0baf/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/508ee2643499fac02a007ee7f668e34ea611beac/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -107,10 +107,10 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e8da327b838cd84bf803d68a76a9fa86bd6b0baf/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/508ee2643499fac02a007ee7f668e34ea611beac/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@e8da327](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/e8da327b838cd84bf803d68a76a9fa86bd6b0baf)
-on June 17, 2020.
+from [Sage-Bionetworks/governanceGreenPaper@508ee26](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/508ee2643499fac02a007ee7f668e34ea611beac)
+on June 18, 2020.
 </em></small>
 
 ## Authors
@@ -190,7 +190,7 @@ on June 17, 2020.
 [@ross2018]: doi:10.1037/amp0000240
 [@sage2020a]: https://designmanual.sagebionetworks.org/privacy_toolkit.html
 [@sage2020b]: https://sagebionetworks.org/tools_resources/elements-of-informed-consent/
-[@shaffter2020]: doi:10.1001/jamanetworkopen.2020.0265
+[@schaffter2020]: doi:10.1001/jamanetworkopen.2020.0265
 [@schneider2019]: http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf
 [@schwarte2011]: doi:10.1007/978-3-642-25073-6_38
 [@seyednasrollah2017]: doi:10.1200/CCI.17.00018 
