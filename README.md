@@ -1,91 +1,24 @@
-# Automated scholarly manuscripts on GitHub
+# Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://Sage-Bionetworks.github.io/governanceGreenPaper/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/Sage-Bionetworks/governanceGreenPaper/workflows/Manubot/badge.svg)](https://github.com/Sage-Bionetworks/governanceGreenPaper/actions)
-[![Travis Build Status](https://travis-ci.com/Sage-Bionetworks/governanceGreenPaper.svg?branch=master)](https://travis-ci.com/Sage-Bionetworks/governanceGreenPaper)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
-## Manuscript description
+This repository represents a [manubot](https://manubot.org/) version of the green paper, whose prose is included in the [content](content/) folder.
 
-<!-- usage note: edit this section. -->
+## Abstract
 
-This repository is a template manuscript (a.k.a. rootstock).
-Actual manuscript instances will clone this repository (see [`SETUP.md`](SETUP.md)) and replace this paragraph with a description of their manuscript.
+This report provides a landscape analysis of of models of governance for open data sharing based on our observations in the biomedical sciences. We offer an overview of those observations and show areas where we think this work can expand to supply further support for open data sharing outside the sciences. 
 
-## Manubot
+The central argument of this paper is that the “right” system of governance is determined by first understanding the nature of the collaborative activities intended. These activities map to types of **governance structures**, which in turn can be built out of standardized parts — what we call **governance design patterns**. In this way, governance for data science can be easy to build, follow key laws and ethics regimes, and enable innovative models of collaboration. We provide an initial survey of structures and design patterns, as well as examples of how we leverage this approach to rapidly build out ethics-centered governance in biomedical research. 
 
-<!-- usage note: do not edit this section -->
+As this paper itself will be deposited in GitHub, we also envision a contributory process whereby this inventory can be extended with more resources and links over time. We can envision communities using these design resources to create clearly governed networks. We can also imagine small private collectives amongst corporations and their partners, both academic and smaller businesses, using these designs as a “stack” to govern data science beyond biomedical research.
 
-Manubot is a system for writing scholarly manuscripts via GitHub.
-Manubot automates citations and references, versions manuscripts using git, and enables collaborative writing via GitHub.
-An [overview manuscript](https://greenelab.github.io/meta-review/ "Open collaborative writing with Manubot") presents the benefits of collaborative writing with Manubot and its unique features.
-The [rootstock repository](https://git.io/fhQH1) is a general purpose template for creating new Manubot instances, as detailed in [`SETUP.md`](SETUP.md).
-See [`USAGE.md`](USAGE.md) for documentation how to write a manuscript.
+While there is no one-size-fits-all solution, we argue for learning from ongoing data science collaborations and building on from existing standards and tools. And in so doing, we argue for data governance as a discipline worthy of expertise, attention, standards, and innovation.
 
-Please open [an issue](https://git.io/fhQHM) for questions related to Manubot usage, bug reports, or general inquiries.
-
-### Repository directories & files
-
-The directories are as follows:
-
-+ [`content`](content) contains the manuscript source, which includes markdown files as well as inputs for citations and references.
-  See [`USAGE.md`](USAGE.md) for more information.
-+ [`output`](output) contains the outputs (generated files) from Manubot including the resulting manuscripts.
-  You should not edit these files manually, because they will get overwritten.
-+ [`webpage`](webpage) is a directory meant to be rendered as a static webpage for viewing the HTML manuscript.
-+ [`build`](build) contains commands and tools for building the manuscript.
-+ [`ci`](ci) contains files necessary for deployment via continuous integration.
-
-### Local execution
-
-The easiest way to run Manubot is to use [continuous integration](#continuous-integration) to rebuild the manuscript when the content changes.
-If you want to build a Manubot manuscript locally, install the [conda](https://conda.io) environment as described in [`build`](build).
-Then, you can build the manuscript on POSIX systems by running the following commands from this root directory.
-
-```sh
-# Activate the manubot conda environment (assumes conda version >= 4.4)
-conda activate manubot
-
-# Build the manuscript, saving outputs to the output directory
-bash build/build.sh
-
-# At this point, the HTML & PDF outputs will have been created. The remaining
-# commands are for serving the webpage to view the HTML manuscript locally.
-# This is required to view local images in the HTML output.
-
-# Configure the webpage directory
-manubot webpage
-
-# You can now open the manuscript webpage/index.html in a web browser.
-# Alternatively, open a local webserver at http://localhost:8000/ with the
-# following commands.
-cd webpage
-python -m http.server
-```
-
-Sometimes it's helpful to monitor the content directory and automatically rebuild the manuscript when a change is detected.
-The following command, while running, will trigger both the `build.sh` script and `manubot webpage` command upon content changes:
-
-```sh
-bash build/autobuild.sh
-```
-
-### Continuous Integration
-
-Whenever a pull request is opened, CI (continuous integration) will test whether the changes break the build process to generate a formatted manuscript.
-The build process aims to detect common errors, such as invalid citations.
-If your pull request build fails, see the CI logs for the cause of failure and revise your pull request accordingly.
-
-When a commit to the `master` branch occurs (for example, when a pull request is merged), CI builds the manuscript and writes the results to the [`gh-pages`](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/gh-pages) and [`output`](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/output) branches.
-The `gh-pages` branch uses [GitHub Pages](https://pages.github.com/) to host the following URLs:
-
-+ **HTML manuscript** at https://Sage-Bionetworks.github.io/governanceGreenPaper/
-+ **PDF manuscript** at https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf
-
-For continuous integration configuration details, see [`.github/workflows/manubot.yaml`](.github/workflows/manubot.yaml) if using GitHub Actions or [`.travis.yml`](.travis.yml) if using Travis CI.
 
 ## License
 
@@ -117,5 +50,3 @@ All other files are only available under CC BY 4.0, including:
 + `*.html`
 + `*.pdf`
 + `*.docx`
-
-Please open [an issue](https://github.com/Sage-Bionetworks/governanceGreenPaper/issues) for any question related to licensing.
