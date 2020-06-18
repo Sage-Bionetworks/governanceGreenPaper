@@ -42,7 +42,7 @@ Homomorphic
 IAPP
 identifiability
 incentivize
-Interoperable
+interoperable
 IRB
 Joon
 Kadija
@@ -65,7 +65,7 @@ omic
 Parkinsons
 phonation
 policymaking
-pre
+Pre
 reconceive
 representativeness
 researcer
