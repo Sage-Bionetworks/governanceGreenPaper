@@ -30,7 +30,7 @@ Faden
 FDP
 FDP’s
 FHIR
-Findable
+findable
 Funder
 funders
 GDPR
@@ -42,7 +42,7 @@ Homomorphic
 IAPP
 identifiability
 incentivize
-interoperable
+Interoperable
 IRB
 Joon
 Kadija
@@ -88,7 +88,7 @@ userQual
 Vannevar
 WCG
 wearables
-wilbanks
+Wilbanks
 WIRB
 Yu
 Zuckerberg
