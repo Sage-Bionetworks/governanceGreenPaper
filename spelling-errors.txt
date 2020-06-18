@@ -14,7 +14,7 @@ collectionMechanisms
 colorectal
 Concordantly
 consortiums
-Covid
+COVID
 CRC
 curation
 customizable
@@ -65,7 +65,7 @@ omic
 Parkinsons
 phonation
 policymaking
-Pre
+pre
 reconceive
 representativeness
 researcer
@@ -88,7 +88,7 @@ userQual
 Vannevar
 WCG
 wearables
-Wilbanks
+wilbanks
 WIRB
 Yu
 Zuckerberg
