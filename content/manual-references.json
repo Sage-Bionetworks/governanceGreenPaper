@@ -1,22 +1,315 @@
 [
-{
-  "id": "url:https://github.com/manubot/rootstock",
-  "type": "webpage",
-  "URL": "https://github.com/manubot/rootstock",
-  "title": "manubot/rootstock GitHub repository",
-  "container-title": "GitHub",
-  "issued": {
-    "date-parts": [
-      [
-        2019
+  {
+    "id": "1mFzspuo",
+    "type": "webpage",
+    "title": "Wellcome Sanger Institute: Catalogue of Somatic Mutations in Cancer Data Downloads",
+    "URL": "https://cancer.sanger.ac.uk/cosmic/download?genome=37",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          18
+        ]
       ]
+    }
+  },
+  {
+    "id": "BtzWfCJm",
+    "type": "webpage",
+    "title": "National Center for Biotechnology Information. (n.d.). DbGaP Request Procedures to Access Individual-Level Data",
+    "URL": "https://dbgap.ncbi.nlm.nih.gov/aa/dbgap_request_process.pdf",
+    "issued": {
+      "date-parts": [
+        [
+          2011,
+          3,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "id": "wqupV8k1",
+    "type": "webpage",
+    "URL": "https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_054586.pdf",
+    "title": "Decker, R. S., Wimsatt, L., Trice, A. G., & Konstan, J. A. (2007). A profile of federal-grant administrative burden among Federal Demonstration Partnership faculty",
+    "issued": {
+      "date-parts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "author": [
+      {
+        "family": "Decker",
+        "given": "RS"
+      },
+      {
+        "family": "Wimsatt",
+        "given": "L"
+      },
+      {
+        "family": "Trice",
+        "given": "AG"
+      },
+      {
+        "family": "Konstan",
+        "given": "JA"
+      }
     ]
   },
-  "author": [
-    {
-      "given": "Daniel",
-      "family": "Himmelstein"
+  {
+    "id": "G3NU3hO7",
+    "type": "webpage",
+    "title": "LegalZoom: Start a Business, Protect Your Family",
+    "container-title": "LegalZoom",
+    "URL": "https://www.legalzoom.com",
+    "shortTitle": "LegalZoom",
+    "language": "en",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          18
+        ]
+      ]
     }
-  ]
-}
+  },
+  {
+    "id": "TUd0l6ty",
+    "type": "webpage",
+    "title": "Reclaiming Data Trusts",
+    "container-title": "Centre for International Governance Innovation",
+    "URL": "https://www.cigionline.org/articles/reclaiming-data-trusts",
+    "language": "en",
+    "author": [
+      {
+        "family": "McDonald",
+        "given": "S"
+      }
+    ],
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "id": "1BpKAGz3u",
+    "type": "webpage",
+    "title": "Office for Civil Rights (OCR): Business Associate Contracts",
+    "container-title": "HHS.gov",
+    "genre": "Text",
+    "abstract": "Sample Business Assoicate Agreement Provisions",
+    "URL": "https://www.hhs.gov/hipaa/for-professionals/covered-entities/sample-business-associate-agreement-provisions/index.html",
+    "language": "en",
+    "issued": {
+      "date-parts": [
+        [
+          "2008",
+          5,
+          21
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "id": "14prwQcfV",
+    "type": "webpage",
+    "title": "Science the Endless Frontier",
+    "URL": "https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm",
+    "author": [
+      {
+        "family": "Bush",
+        "given": "V"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "1945"
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "id": "j7nvT8JA",
+    "type": "webpage",
+    "URL": "http://www.hcsrn.org/en/Tools%20&%20Materials/GrantsContracting/HCSRN_DUAToolkit.pdf",
+    "title": "Health Care Systems Network. (n.d.)",
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          18
+        ]
+      ]
+    }
+  },
+  {
+    "id": "uLLZUEu",
+    "URL": "https://doi.org/gg2jdt",
+    "type": "article-journal",
+    "issued": {
+      "date-parts": [
+        [
+          2019,
+          6,
+          28
+        ]
+      ]
+    },
+    "container-title": "National Bureau of Economic Research",
+    "publisher": "National Bureau of Economic Research",
+    "title": "The Changing Structure of American Innovation: Some Cautionary Remarks for Economic Growth",
+    "author": [
+      {
+        "family": "Arora",
+        "given": "A"
+      },
+      {
+        "family": "Belenzon",
+        "given": "S"
+      },
+      {
+        "family": "Patacconi",
+        "given": "A"
+      },
+      {
+        "family": "Suh",
+        "given": "J"
+      }
+    ],
+    "DOI": "10.3386/w25893"
+  },
+  {
+    "id": "M5iKzYGg",
+    "type": "webpage",
+    "URL": "http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf",
+    "container-title": "Conference on fairness, accountability and transparency",
+    "title": "Gender shades: Intersectional accuracy disparities in commercial gender classification",
+    "author": [
+      {
+        "family": "Buolamwini",
+        "given": "J"
+      },
+      {
+        "family": "Gebru",
+        "given": "T"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          7,
+          16
+        ]
+      ]
+    }
+  },
+  {
+    "id": "EIBAJZJB",
+    "type": "webpage",
+    "URL": "https://datasociety.net/wp-content/uploads/2018/02/DataSociety_Fairness_In_Precision_Medicine_Feb2018.pdf",
+    "container-title": "Data & Society",
+    "title": "Fairness in precision medicine",
+    "author": [
+      {
+        "family": "Ferryman",
+        "given": "K"
+      },
+      {
+        "family": "Pitcan",
+        "given": "M"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2018,
+          2
+        ]
+      ]
+    }
+  },
+  {
+    "id": "17uRi6Qj3",
+    "type": "webpage",
+    "URL": "https://www.everycrsreport.com/files/20121203_RL33528_ebc4cd402342b9bbf91bebdb37bbe6bdc06e57ae.pdf",
+    "title": "Industrial Competitiveness and Technological Advancement: Debate Over Government Policy",
+    "author": [
+      {
+        "family": "Congressional Research Service"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    }
+  },
+  {
+    "id": "tPpeCQYm",
+    "type": "thesis",
+    "title": "Identification of Primary Time Drivers in Compliance for Non-medical STEM Research, and Best Practices for Reducing Time Investment by Faculty",
+    "publisher": "Johns Hopkins University",
+    "genre": "Thesis",
+    "source": "jscholarship.library.jhu.edu",
+    "abstract": "An increase in time commitment for compliance measures in STEM research has been measured by the 2018 Federal Demonstration Partnership Survey (Schneider, 2019), despite widespread use of submission and signature technology, search engines, and regulatory streamlining. It is possible that this increase is primarily due to redundant and extraneous requirements, duplicate reports to multiple offices, insufficient or irrelevant training, lack of\nintegration between various technological platforms, or lack of proactive communication with\ninstitutional compliance entities.\n\nA survey has been administered to the end-user actors in this process, the faculty, postdoctoral associates, graduate students, and professional research associates/technicians that\nengage with compliance duties on a daily basis. This survey was designed to determine specific points of redundancy, duplication, confusion, and lack of training in various compliance areas; as\nwell as requesting subjective information to determine communication and process lapses.\n\nAccording to the survey results the primary time drivers in compliance functions are administratively oriented; centering on recording research results, the pre-award functions of\nproposal generation/proposal submission/budget creation and forecasting, the post-award functions including financial management, technical/financial interim and final reporting of various types, and publication and presentation creation. The primary requests rising from\nsubjective comments was to obtain more quality assistance trained in compliance to assist researchers, to reduce redundancy, duplication and conflict between requirements at department, industry, and agency level, and to streamline technological amenities to avoid duplication/redundancy and increase ease of use for the end-users.\n\nBased on these data a set of best practices has been constructed that can provide direction and possible solutions for these problems; increasing the efficacy of communication lines at all levels of the scientific research enterprise. As a result, these best practices can improve administrative processes and reduce time commitment for compliance that can be re-invested in\nresearch activity.",
+    "URL": "http://dspace-prod.mse.jhu.edu:8080/handle/1774.2/62063",
+    "language": "en_US",
+    "author": [
+      {
+        "family": "Michel",
+        "given": "Kathryn Kaufmann"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2019",
+          8,
+          5
+        ]
+      ]
+    },
+    "accessed": {
+      "date-parts": [
+        [
+          "2020",
+          6,
+          18
+        ]
+      ]
+    }
+  }
 ]
