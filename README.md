@@ -7,7 +7,10 @@
 [![GitHub Actions Status](https://github.com/Sage-Bionetworks/governanceGreenPaper/workflows/Manubot/badge.svg)](https://github.com/Sage-Bionetworks/governanceGreenPaper/actions)
 <!-- usage note: delete CI badges above for services not used by your manuscript -->
 
-This repository represents a [manubot](https://manubot.org/) version of the green paper, whose prose is included in the [content](content/) folder.
+This repository represents a [manubot](https://manubot.org/) version of the green paper, whose prose is included in the [content](content/) folder. The fully executed green paper can be found at:
+
+**HTML manuscript**: https://Sage-Bionetworks.github.io/governanceGreenPaper/
+**PDF manuscript**: https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf
 
 ## Abstract
 
