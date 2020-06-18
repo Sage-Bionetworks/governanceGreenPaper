@@ -14,7 +14,7 @@ collectionMechanisms
 colorectal
 Concordantly
 consortiums
-Covid
+COVID
 CRC
 curation
 customizable
@@ -30,7 +30,7 @@ Faden
 FDP
 FDP’s
 FHIR
-findable
+Findable
 Funder
 funders
 GDPR
@@ -42,7 +42,7 @@ Homomorphic
 IAPP
 identifiability
 incentivize
-Interoperable
+interoperable
 IRB
 Joon
 Kadija
