@@ -14,14 +14,14 @@ collectionMechanisms
 colorectal
 Concordantly
 consortiums
-Covid
+COVID
 CRC
 curation
 customizable
 cybersecurity
 DAC
 DACs
-dataset
+Dataset
 dbGAP
 designable
 Devaney
@@ -30,7 +30,7 @@ Faden
 FDP
 FDP’s
 FHIR
-findable
+Findable
 Funder
 funders
 GDPR
@@ -65,7 +65,7 @@ omic
 Parkinsons
 phonation
 policymaking
-Pre
+pre
 reconceive
 representativeness
 researcer
