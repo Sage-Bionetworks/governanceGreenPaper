@@ -1,6 +1,6 @@
 [
   {
-    "id": "1mFzspuo",
+    "id": "https://cancer.sanger.ac.uk/cosmic/download?genome=37",
     "type": "webpage",
     "title": "Wellcome Sanger Institute: Catalogue of Somatic Mutations in Cancer Data Downloads",
     "URL": "https://cancer.sanger.ac.uk/cosmic/download?genome=37",
@@ -15,7 +15,7 @@
     }
   },
   {
-    "id": "BtzWfCJm",
+    "id": "https://dbgap.ncbi.nlm.nih.gov/aa/dbgap_request_process.pdf",
     "type": "webpage",
     "title": "National Center for Biotechnology Information. (n.d.). DbGaP Request Procedures to Access Individual-Level Data",
     "URL": "https://dbgap.ncbi.nlm.nih.gov/aa/dbgap_request_process.pdf",
@@ -30,10 +30,10 @@
     }
   },
   {
-    "id": "wqupV8k1",
+    "id": "https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_054586.pdf",
     "type": "webpage",
     "URL": "https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_054586.pdf",
-    "title": "Decker, R. S., Wimsatt, L., Trice, A. G., & Konstan, J. A. (2007). A profile of federal-grant administrative burden among Federal Demonstration Partnership faculty",
+    "title": "A profile of federal-grant administrative burden among Federal Demonstration Partnership faculty",
     "issued": {
       "date-parts": [
         [
@@ -61,7 +61,7 @@
     ]
   },
   {
-    "id": "G3NU3hO7",
+    "id": "https://www.legalzoom.com",
     "type": "webpage",
     "title": "LegalZoom: Start a Business, Protect Your Family",
     "container-title": "LegalZoom",
@@ -79,7 +79,7 @@
     }
   },
   {
-    "id": "TUd0l6ty",
+    "id": "https://www.cigionline.org/articles/reclaiming-data-trusts",
     "type": "webpage",
     "title": "Reclaiming Data Trusts",
     "container-title": "Centre for International Governance Innovation",
@@ -102,7 +102,7 @@
     }
   },
   {
-    "id": "1BpKAGz3u",
+    "id": "https://www.hhs.gov/hipaa/for-professionals/covered-entities/sample-business-associate-agreement-provisions/index.html",
     "type": "webpage",
     "title": "Office for Civil Rights (OCR): Business Associate Contracts",
     "container-title": "HHS.gov",
@@ -130,7 +130,7 @@
     }
   },
   {
-    "id": "14prwQcfV",
+    "id": "https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm",
     "type": "webpage",
     "title": "Science the Endless Frontier",
     "URL": "https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm",
@@ -158,7 +158,7 @@
     }
   },
   {
-    "id": "j7nvT8JA",
+    "id": "http://www.hcsrn.org/en/Tools%20&%20Materials/GrantsContracting/HCSRN_DUAToolkit.pdf",
     "type": "webpage",
     "URL": "http://www.hcsrn.org/en/Tools%20&%20Materials/GrantsContracting/HCSRN_DUAToolkit.pdf",
     "title": "Health Care Systems Network. (n.d.)",
@@ -173,7 +173,7 @@
     }
   },
   {
-    "id": "uLLZUEu",
+    "id": "doi:10.3386/w25893",
     "URL": "https://doi.org/gg2jdt",
     "type": "article-journal",
     "issued": {
@@ -209,7 +209,7 @@
     "DOI": "10.3386/w25893"
   },
   {
-    "id": "M5iKzYGg",
+    "id": "http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf",
     "type": "webpage",
     "URL": "http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf",
     "container-title": "Conference on fairness, accountability and transparency",
@@ -235,7 +235,7 @@
     }
   },
   {
-    "id": "EIBAJZJB",
+    "id": "https://datasociety.net/wp-content/uploads/2018/02/DataSociety_Fairness_In_Precision_Medicine_Feb2018.pdf",
     "type": "webpage",
     "URL": "https://datasociety.net/wp-content/uploads/2018/02/DataSociety_Fairness_In_Precision_Medicine_Feb2018.pdf",
     "container-title": "Data & Society",
@@ -260,7 +260,7 @@
     }
   },
   {
-    "id": "17uRi6Qj3",
+    "id": "https://www.everycrsreport.com/files/20121203_RL33528_ebc4cd402342b9bbf91bebdb37bbe6bdc06e57ae.pdf",
     "type": "webpage",
     "URL": "https://www.everycrsreport.com/files/20121203_RL33528_ebc4cd402342b9bbf91bebdb37bbe6bdc06e57ae.pdf",
     "title": "Industrial Competitiveness and Technological Advancement: Debate Over Government Policy",
@@ -278,7 +278,7 @@
     }
   },
   {
-    "id": "tPpeCQYm",
+    "id": "http://dspace-prod.mse.jhu.edu:8080/handle/1774.2/62063",
     "type": "thesis",
     "title": "Identification of Primary Time Drivers in Compliance for Non-medical STEM Research, and Best Practices for Reducing Time Investment by Faculty",
     "publisher": "Johns Hopkins University",
