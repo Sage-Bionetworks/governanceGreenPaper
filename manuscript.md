@@ -1,11 +1,11 @@
 ---
 author-meta:
-- Lara Mangravite
+- Lara M. Mangravite
 - Avery Sen
 - John T. Wilbanks
 bibliography:
 - content/manual-references.json
-date-meta: '2020-06-18'
+date-meta: '2020-06-19'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -24,9 +24,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report" />
 
-  <meta name="dc.date" content="2020-06-18" />
+  <meta name="dc.date" content="2020-06-19" />
 
-  <meta name="citation_publication_date" content="2020-06-18" />
+  <meta name="citation_publication_date" content="2020-06-19" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -40,7 +40,7 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="Lara Mangravite" />
+  <meta name="citation_author" content="Lara M. Mangravite" />
 
   <meta name="citation_author_institution" content="Sage Bionetworks" />
 
@@ -49,6 +49,8 @@ header-includes: '<!--
   <meta name="citation_author" content="Avery Sen" />
 
   <meta name="citation_author_institution" content="Sentripetal" />
+
+  <meta name="citation_author_orcid" content="0000-0002-1303-7449" />
 
   <meta name="citation_author" content="John T. Wilbanks" />
 
@@ -70,11 +72,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/cd22ed50bb090297df947534b9623699f9b9f751/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/a4599bbf0deee8476713713c248fa86ab158d713/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/cd22ed50bb090297df947534b9623699f9b9f751/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/a4599bbf0deee8476713713c248fa86ab158d713/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/cd22ed50bb090297df947534b9623699f9b9f751/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/a4599bbf0deee8476713713c248fa86ab158d713/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -107,24 +109,26 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/cd22ed50bb090297df947534b9623699f9b9f751/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/a4599bbf0deee8476713713c248fa86ab158d713/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@cd22ed5](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/cd22ed50bb090297df947534b9623699f9b9f751)
-on June 18, 2020.
+from [Sage-Bionetworks/governanceGreenPaper@a4599bb](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/a4599bbf0deee8476713713c248fa86ab158d713)
+on June 19, 2020.
 </em></small>
 
 ## Authors {.unlisted}
 
 
 
-+ **Lara Mangravite**<br>
++ **Lara M. Mangravite**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [0000-0001-7841-3612](https://orcid.org/0000-0001-7841-3612)<br>
   <small>
      Sage Bionetworks
   </small>
 
-+ **Avery Sen**<br><br>
++ **Avery Sen**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-1303-7449](https://orcid.org/0000-0002-1303-7449)<br>
   <small>
      Sentripetal
   </small>

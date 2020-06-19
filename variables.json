@@ -8,13 +8,13 @@
       "open data"
     ],
     "lang": "en-US",
-    "date-meta": "2020-06-18",
+    "date-meta": "2020-06-19",
     "author-meta": [
-      "Lara Mangravite",
+      "Lara M. Mangravite",
       "Avery Sen",
       "John T. Wilbanks"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report\" />\n<meta name=\"citation_title\" content=\"Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report\" />\n<meta property=\"og:title\" content=\"Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report\" />\n<meta property=\"twitter:title\" content=\"Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report\" />\n<meta name=\"dc.date\" content=\"2020-06-18\" />\n<meta name=\"citation_publication_date\" content=\"2020-06-18\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Lara Mangravite\" />\n<meta name=\"citation_author_institution\" content=\"Sage Bionetworks\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7841-3612\" />\n<meta name=\"citation_author\" content=\"Avery Sen\" />\n<meta name=\"citation_author_institution\" content=\"Sentripetal\" />\n<meta name=\"citation_author\" content=\"John T. Wilbanks\" />\n<meta name=\"citation_author_institution\" content=\"Sage Bionetworks\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4510-0385\" />\n<meta name=\"twitter:creator\" content=\"@wilbanks\" />\n<link rel=\"canonical\" href=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/\" />\n<meta property=\"og:url\" content=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/\" />\n<meta property=\"twitter:url\" content=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/\" />\n<meta name=\"citation_pdf_url\" content=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/v/cd22ed50bb090297df947534b9623699f9b9f751/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/v/cd22ed50bb090297df947534b9623699f9b9f751/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/v/cd22ed50bb090297df947534b9623699f9b9f751/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report\" />\n<meta name=\"citation_title\" content=\"Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report\" />\n<meta property=\"og:title\" content=\"Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report\" />\n<meta property=\"twitter:title\" content=\"Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report\" />\n<meta name=\"dc.date\" content=\"2020-06-19\" />\n<meta name=\"citation_publication_date\" content=\"2020-06-19\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Lara M. Mangravite\" />\n<meta name=\"citation_author_institution\" content=\"Sage Bionetworks\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0001-7841-3612\" />\n<meta name=\"citation_author\" content=\"Avery Sen\" />\n<meta name=\"citation_author_institution\" content=\"Sentripetal\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-1303-7449\" />\n<meta name=\"citation_author\" content=\"John T. Wilbanks\" />\n<meta name=\"citation_author_institution\" content=\"Sage Bionetworks\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-4510-0385\" />\n<meta name=\"twitter:creator\" content=\"@wilbanks\" />\n<link rel=\"canonical\" href=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/\" />\n<meta property=\"og:url\" content=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/\" />\n<meta property=\"twitter:url\" content=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/\" />\n<meta name=\"citation_pdf_url\" content=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/v/a4599bbf0deee8476713713c248fa86ab158d713/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/v/a4599bbf0deee8476713713c248fa86ab158d713/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://Sage-Bionetworks.github.io/governanceGreenPaper/v/a4599bbf0deee8476713713c248fa86ab158d713/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -24,11 +24,11 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "June 18, 2020",
+    "date": "June 19, 2020",
     "authors": [
       {
-        "name": "Lara Mangravite",
-        "initials": "LM",
+        "name": "Lara M. Mangravite",
+        "initials": "LMM",
         "orcid": "0000-0001-7841-3612",
         "email": "lara.mangravite@sagebase.org",
         "affiliations": [
@@ -41,6 +41,7 @@
       {
         "name": "Avery Sen",
         "initials": "AS",
+        "orcid": "0000-0002-1303-7449",
         "affiliations": [
           "Sentripetal"
         ],
@@ -77,15 +78,15 @@
       "repo_slug": "Sage-Bionetworks/governanceGreenPaper",
       "repo_owner": "Sage-Bionetworks",
       "repo_name": "governanceGreenPaper",
-      "commit": "cd22ed50bb090297df947534b9623699f9b9f751",
-      "triggering_commit": "cd22ed50bb090297df947534b9623699f9b9f751",
-      "build_url": "https://github.com/Sage-Bionetworks/governanceGreenPaper/commit/cd22ed50bb090297df947534b9623699f9b9f751/checks",
+      "commit": "a4599bbf0deee8476713713c248fa86ab158d713",
+      "triggering_commit": "a4599bbf0deee8476713713c248fa86ab158d713",
+      "build_url": "https://github.com/Sage-Bionetworks/governanceGreenPaper/commit/a4599bbf0deee8476713713c248fa86ab158d713/checks",
       "job_url": "https://github.com/Sage-Bionetworks/governanceGreenPaper/runs/run3"
     },
     "html_url": "https://Sage-Bionetworks.github.io/governanceGreenPaper/",
     "pdf_url": "https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf",
-    "html_url_versioned": "https://Sage-Bionetworks.github.io/governanceGreenPaper/v/cd22ed50bb090297df947534b9623699f9b9f751/",
-    "pdf_url_versioned": "https://Sage-Bionetworks.github.io/governanceGreenPaper/v/cd22ed50bb090297df947534b9623699f9b9f751/manuscript.pdf",
+    "html_url_versioned": "https://Sage-Bionetworks.github.io/governanceGreenPaper/v/a4599bbf0deee8476713713c248fa86ab158d713/",
+    "pdf_url_versioned": "https://Sage-Bionetworks.github.io/governanceGreenPaper/v/a4599bbf0deee8476713713c248fa86ab158d713/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "adc7b8bca102594d8e7d46d93071c4018f0c6944",
     "manuscript_stats": {
