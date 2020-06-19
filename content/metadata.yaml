@@ -7,14 +7,15 @@ keywords:
   - open data
 lang: en-US
 authors:
-  - name: Lara Mangravite
-    initials: LM
+  - name: Lara M. Mangravite
+    initials: LMM
     orcid: 0000-0001-7841-3612
     email: lara.mangravite@sagebase.org
     affiliations:
       - Sage Bionetworks
   - name: Avery Sen
     initials: AS
+    orcid: 0000-0002-1303-7449
     affiliations:
       - Sentripetal
   - name: John T. Wilbanks
