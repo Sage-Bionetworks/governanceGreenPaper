@@ -72,11 +72,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/68409d3dad07d98abfee56cb72fb5bfaf0395e8c/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e80ee31c43fbfd3bf591bd7292e9afdaaf517297/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/68409d3dad07d98abfee56cb72fb5bfaf0395e8c/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e80ee31c43fbfd3bf591bd7292e9afdaaf517297/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/68409d3dad07d98abfee56cb72fb5bfaf0395e8c/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e80ee31c43fbfd3bf591bd7292e9afdaaf517297/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -109,9 +109,9 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/68409d3dad07d98abfee56cb72fb5bfaf0395e8c/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e80ee31c43fbfd3bf591bd7292e9afdaaf517297/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@68409d3](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/68409d3dad07d98abfee56cb72fb5bfaf0395e8c)
+from [Sage-Bionetworks/governanceGreenPaper@e80ee31](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/e80ee31c43fbfd3bf591bd7292e9afdaaf517297)
 on June 22, 2020.
 </em></small>
 
@@ -348,7 +348,7 @@ This definition asserts that governance takes forms over time that are observabl
 This definition asserts that governance structures are composed of specific and reusable patterns.
 
 
-## Governance Structures
+## Governance Structures {.page_break_before}
 
 Effective data use traditionally starts not with, “what data do we have?” but instead with, “what hypothesis do we propose to explore?” 
 The advent of machine learning adds to this, “what hypotheses are afforded by these data?” 
@@ -472,7 +472,7 @@ Decisions about governance should start with research goals and nature of collab
 
 
 
-## Governance Design Patterns
+## Governance Design Patterns {.page_break_before}
 
 Like templates for building a spreadsheet or website, **governance design patterns are generalizable solutions for common challenges and decision points in collaboration**.
 
@@ -704,7 +704,7 @@ Also, a hallmark of user-centered design is frequent, rapid, iterative prototypi
 Testbeds to enable frequent, rapid, iterative prototyping and integrate user feedback are another often overlooked, but entirely necessary, component of the governance enterprise. 
 
 
-## Conclusion
+## Conclusion {.page_break_before}
 
 Data use collaborations are incredibly diverse in terms of the types of artifacts being shared, the degree to which they are shared, the purposes with which they are shared, not to mention the power dynamics among collaborators. 
 This means that we must attend to the design of the rules and incentive structures that govern human behavior as much as we attend to the design of hardware and software. 
