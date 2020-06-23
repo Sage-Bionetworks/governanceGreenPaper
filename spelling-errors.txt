@@ -30,7 +30,7 @@ Faden
 FDP
 FDP’s
 FHIR
-Findable
+findable
 Funder
 funders
 GDPR
