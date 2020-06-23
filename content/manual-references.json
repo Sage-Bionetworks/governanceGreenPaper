@@ -209,6 +209,40 @@
     "DOI": "10.3386/w25893"
   },
   {
+    "id": "moore2020",
+    "type": "article-journal",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "publisher": "Forthcoming/in press",
+    "title": "Informed Consent for the All of Us Research Program",
+    "author": [
+      {
+        "family": "Moore",
+        "given": "S"
+      },
+      {
+        "family": "Barone",
+        "given": "V"
+      },
+      {
+        "family": "Bot",
+        "given": "BM"
+      },
+      {
+        "family": "Doerr",
+        "given": "M"
+      },
+      {
+        "family": "on behalf of the All of Us Consent Work Group and the Low Health Literacy Consent Study research team"
+      }
+    ]
+  },
+  {
     "id": "http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf",
     "type": "webpage",
     "URL": "http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf",
