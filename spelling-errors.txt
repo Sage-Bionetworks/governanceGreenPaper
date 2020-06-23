@@ -14,7 +14,7 @@ collectionMechanisms
 colorectal
 Concordantly
 consortiums
-Covid
+COVID
 CRC
 curation
 customizable
@@ -36,6 +36,7 @@ funders
 GDPR
 generalizable
 GH
+guinney
 HIPAA
 hoc
 Homomorphic
@@ -60,12 +61,13 @@ mPower
 multisite
 mythos
 NCATS
+Nebeker
 NIH’s
 omic
 Parkinsons
 phonation
 policymaking
-Pre
+pre
 reconceive
 representativeness
 researcer

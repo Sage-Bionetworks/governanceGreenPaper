@@ -5,7 +5,7 @@ author-meta:
 - John T. Wilbanks
 bibliography:
 - content/manual-references.json
-date-meta: '2020-06-22'
+date-meta: '2020-06-23'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -24,9 +24,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report" />
 
-  <meta name="dc.date" content="2020-06-22" />
+  <meta name="dc.date" content="2020-06-23" />
 
-  <meta name="citation_publication_date" content="2020-06-22" />
+  <meta name="citation_publication_date" content="2020-06-23" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -72,11 +72,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e80ee31c43fbfd3bf591bd7292e9afdaaf517297/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e935d5380f29766e0984757b18c0f770ef760cfa/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e80ee31c43fbfd3bf591bd7292e9afdaaf517297/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e935d5380f29766e0984757b18c0f770ef760cfa/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e80ee31c43fbfd3bf591bd7292e9afdaaf517297/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e935d5380f29766e0984757b18c0f770ef760cfa/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -109,10 +109,10 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e80ee31c43fbfd3bf591bd7292e9afdaaf517297/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e935d5380f29766e0984757b18c0f770ef760cfa/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@e80ee31](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/e80ee31c43fbfd3bf591bd7292e9afdaaf517297)
-on June 22, 2020.
+from [Sage-Bionetworks/governanceGreenPaper@e935d53](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/e935d5380f29766e0984757b18c0f770ef760cfa)
+on June 23, 2020.
 </em></small>
 
 ## Authors {.unlisted}
@@ -178,6 +178,7 @@ on June 22, 2020.
 [@legalzoom]: https://www.legalzoom.com
 [@mazur2007]: isbn:0801885027
 [@mcdonald2019]: https://www.cigionline.org/articles/reclaiming-data-trusts
+[@mcnealy2018]: doi:10.1016/j.chb.2018.10.029
 [@michel2019]: https://jscholarship.library.jhu.edu/handle/1774.2/62063
 [@microsoft2020]: https://github.com/microsoft/Open-Use-of-Data-Agreement
 [@ncbi2020]: https://dbgap.ncbi.nlm.nih.gov/aa/dbgap_request_process.pdf
@@ -198,7 +199,9 @@ on June 22, 2020.
 [@schneider2019]: http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf
 [@schwarte2011]: doi:10.1007/978-3-642-25073-6_38
 [@seyednasrollah2017]: doi:10.1200/CCI.17.00018 
+[@suver2020]: doi:10.2196/18087
 [@fdp2020]: https://thefdp.org/default/
+[@torous2017]: doi:10.2196/jmir.6793
 [@uscmms2020]: https://www.cms.gov/OpenPayments/Explore-the-Data/Dataset-Downloads
 [@usdhhs2008]: https://www.hhs.gov/hipaa/for-professionals/covered-entities/sample-business-associate-agreement-provisions/index.html
 [@vaidhyanathan2018]: isbn:0190841168
@@ -363,7 +366,7 @@ A key requirement for data governance to consider in this context is: **what doe
 Openness does not work for everyone, everywhere. 
 Many groups traditionally under-represented in medical research have endured systemic, ongoing betrayals of trust in how data and samples are collected and used [@bardill2015]. 
 These same groups are also often the least served by the medical systems, and the most surveilled by the state [@ferryman2018]. 
-We must therefore design governance structures and governance design patterns that support the contextual desire to restrict data availability [@ross2018]. 
+We must therefore design governance structures and governance design patterns that support the contextual desire to restrict data availability [@ross2018] while recognizing that frameworks exist for investigating boundaries and information sharing [@mcnealy2018]. 
 We must also develop the ability bring every group into governance designs, to explore when, how, and to whom they might be comfortable allowing access over time, and governance appropriate for those uses [@wilkins2020].
 
 While research collaborations are unique, there are commonalities they share. 
@@ -390,7 +393,7 @@ Users must “visit” the data rather than download them, agree to be known, an
 Data are held by a steward who is responsible for running algorithms on the behalf of researchers. 
 In some cases, a synthetic version of the data may be released openly to facilitate model training. 
 Researchers develop algorithms, send them to the steward, and receive back output of their analysis as run on the real dataset. 
-The variety of analyses that may be performed is restricted by this structure, because the data steward must ensure data are specifically curated for any analytical question at hand [@guinney2018].
+The variety of analyses that may be performed is restricted by this structure, because the data steward must ensure data are specifically curated for any analytical question at hand [@suver2020; @guinney2018].
 - **Open citizen science** (Many-to-many): 
 Rights to use and distribute data are often fully decentralized via license or contract. 
 Open citizen science is a peer-to-peer version of open source science [@greshake2019].
@@ -486,6 +489,7 @@ Authors of these design patterns can build maps of what kinds of governance desi
 Data collaborations in biomedical research often feature scientists negotiating legal language directly. 
 Their selection, combination, and application of legal terms is often ad-hoc, often leading to missing language, conflicting language, or misinterpretation. 
 Standardizing contract language patterns and defining their interactions creates a common language for governance early in collaborations. 
+And there is precedent, as the CORE platform hosts a large and growing library of reusable resources [@torous2017] as design patterns.
 
 More importantly, standard, yet customizable, reusable language creates multiple benefits. 
 Such language is not biased to anyone in the negotiation, meets legal and ethical norms and requirements often missed by unskilled negotiators, and supports descriptive annotations to facilitate understanding. 
@@ -523,7 +527,7 @@ Depending on the data type, regulations may require informed consent, simple con
 These legal documents execute a basic set of functions: gathering permission from a person to take in their data into a research study, cloud platform, business, and applications. 
 Broadly standard language dominates consumer terms of service and privacy policy, with outright cut-and-paste common from website to website. 
 A primary goal of most of these documents is to insulate the collector from liability and the resulting documents are complex, lawyer-oriented, difficult to understand, and non-negotiable. 
-Thus the need for user interfaces to explain data collection is increasingly accepted, with user experience designs demonstrating impact in informed consent and privacy policies. 
+Thus the need for user interfaces to explain data collection is increasingly accepted, with user experience designs demonstrating impact in informed consent and privacy policies [@moore2020]. 
 
 | Design Pattern | Description | Example |
 | ----- | ----- | ----- |
@@ -798,12 +802,15 @@ Good governance for everyone is where we propose to begin.
 We are grateful to Microsoft for supporting this paper, particularly Nicolas Schifano and Katherine Spelman. 
 
 This paper would not exist without the Sage Bionetworks team. 
-Christine Suver contributed enormously to the governance structures described here, and Megan Doerr’s work on informed consent and data governance is woven throughout. 
+Christine Suver contributed enormously to the governance structures described here, and Megan Doerr’s work on informed consent and data governance is woven throughout (and thanks for a careful review). 
 Vanessa Barone’s work with Woody MacDuffie on the Privacy Toolkit contributed the key concept of design patterns. 
 Sarah Moore and Victoria Allen’s work on the AllofUs Research Program represents an ongoing test of the models described here. 
+Brian Bot took the static content of this green paper and translated it into a living document via manubot and hosted on GitHub to enable future community contributions and critiques.
 And Stephen Friend was a constant early inspiration and collaborator for innovation in governance structures. 
 
-We would also like to thank John Chaffins, Stephanie Devaney, Jesse Dylan, Ruth Faden, Kadija Ferryman, David Fore, Nancy Kass, Bartha Knoppers, Sean McDonald, Jasmine McNealy, Michelle Meyer, Stephanie Nguyen, Adrian Thorogood, Jennifer Wagner, and Joon-Ho Yu for ongoing conversations that contributed to this paper.
+We would also like to thank John Chaffins, Stephanie Devaney, Jesse Dylan, Ruth Faden, Kadija Ferryman, David Fore, Nancy Kass, Bartha Knoppers, Sean McDonald, Jasmine McNealy, Michelle Meyer, Camille Nebeker, Stephanie Nguyen, Adrian Thorogood, Jennifer Wagner, and Joon-Ho Yu for ongoing conversations that contributed to this paper.
+
+We also thank Academy Health, which provided the first grant ever to the Governance team at Sage.
 
 All mistakes are ours.
 
