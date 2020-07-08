@@ -346,5 +346,25 @@
         ]
       ]
     }
+  },
+  {
+    "id": "http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf",
+    "type": "webpage",
+    "URL": "http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf",
+    "title": "Results of the 2018 FDP Faculty Workload Survey: Input for optimizing time on active research",
+    "publisher": "Plenary session presented at the January meeting of the Federal Demonstration Partnership (FDP), Washington, D.C.",
+    "author": [
+      {
+        "family": "Schneider",
+        "given": "S L"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2019
+        ]
+      ]
+    }
   }
 ]
