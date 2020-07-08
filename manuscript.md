@@ -72,11 +72,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/5b376b50961c4d16eeff02ccafd103426d9aa42d/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/066d5448072ee9118b85c4d0b24a843c11c04a89/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/5b376b50961c4d16eeff02ccafd103426d9aa42d/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/066d5448072ee9118b85c4d0b24a843c11c04a89/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/5b376b50961c4d16eeff02ccafd103426d9aa42d/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/066d5448072ee9118b85c4d0b24a843c11c04a89/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -109,9 +109,9 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/5b376b50961c4d16eeff02ccafd103426d9aa42d/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/066d5448072ee9118b85c4d0b24a843c11c04a89/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@5b376b5](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/5b376b50961c4d16eeff02ccafd103426d9aa42d)
+from [Sage-Bionetworks/governanceGreenPaper@066d544](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/066d5448072ee9118b85c4d0b24a843c11c04a89)
 on July 8, 2020.
 </em></small>
 
@@ -163,7 +163,7 @@ on July 8, 2020.
 [@decker2007]: https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_054586.pdf
 [@dyke2016]: doi:10.1371/journal.pgen.1005772
 [@ec2020a]: https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en
-[@ec2020b]: doi:10.2838/28184
+[@ec2020b]: isbn:978-92-76-10638-8
 [@ferryman2018]: https://datasociety.net/wp-content/uploads/2018/02/DataSociety_Fairness_In_Precision_Medicine_Feb2018.pdf
 [@formswift2020]: https://formswift.com/
 [@garrison2013]: doi:10.1177/0162243912470009

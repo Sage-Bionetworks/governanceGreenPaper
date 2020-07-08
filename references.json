@@ -2036,7 +2036,6 @@
   },
   {
     "id": "isF1I1NM",
-    "type": "webpage",
     "URL": "http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf",
     "title": "Results of the 2018 FDP Faculty Workload Survey: Input for optimizing time on active research",
     "publisher": "Plenary session presented at the January meeting of the Federal Demonstration Partnership (FDP), Washington, D.C.",
@@ -2053,7 +2052,8 @@
         ]
       ]
     },
-    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\noriginal_id: http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf\noriginal_standard_id: http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf\nstandard_id: url:http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf"
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\noriginal_id: http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf\noriginal_standard_id: http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf\nstandard_id: url:http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf",
+    "type": "entry"
   },
   {
     "id": "j7nvT8JA",
