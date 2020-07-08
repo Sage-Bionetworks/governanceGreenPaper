@@ -1972,6 +1972,22 @@
     }
   },
   {
+    "id": "77Uq2uQs",
+    "type": "article-journal",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "",
+    "publisher": "Directorate-General for Justice and Consumers (European Commission)",
+    "title": "Modelling the EU Economy as an Ecosystem of Contracts. Volume 1, feasibility study",
+    "DOI": "10.2838/28184",
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\noriginal_id: isbn:978-92-76-10638-8\noriginal_standard_id: isbn:978-92-76-10638-8\nstandard_id: isbn:9789276106388"
+  },
+  {
     "id": "FJhrDrCb",
     "type": "article-journal",
     "issued": {
@@ -2036,6 +2052,7 @@
   },
   {
     "id": "isF1I1NM",
+    "type": "webpage",
     "URL": "http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf",
     "title": "Results of the 2018 FDP Faculty Workload Survey: Input for optimizing time on active research",
     "publisher": "Plenary session presented at the January meeting of the Federal Demonstration Partnership (FDP), Washington, D.C.",
@@ -2052,8 +2069,7 @@
         ]
       ]
     },
-    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\noriginal_id: http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf\noriginal_standard_id: http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf\nstandard_id: url:http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf",
-    "type": "entry"
+    "note": "This CSL JSON Item was loaded by Manubot v0.3.1 from a manual reference file.\nmanual_reference_filename: manual-references.json\noriginal_id: http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf\noriginal_standard_id: http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf\nstandard_id: url:http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf"
   },
   {
     "id": "j7nvT8JA",

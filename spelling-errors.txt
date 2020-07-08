@@ -14,7 +14,7 @@ collectionMechanisms
 colorectal
 Concordantly
 consortiums
-COVID
+Covid
 CRC
 curation
 customizable
@@ -31,7 +31,7 @@ FDP
 FDP’s
 Feasability
 FHIR
-Findable
+findable
 Funder
 funders
 GDPR
