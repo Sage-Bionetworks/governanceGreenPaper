@@ -5,7 +5,7 @@ author-meta:
 - John T. Wilbanks
 bibliography:
 - content/manual-references.json
-date-meta: '2020-06-23'
+date-meta: '2020-07-08'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -24,9 +24,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report" />
 
-  <meta name="dc.date" content="2020-06-23" />
+  <meta name="dc.date" content="2020-07-08" />
 
-  <meta name="citation_publication_date" content="2020-06-23" />
+  <meta name="citation_publication_date" content="2020-07-08" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -72,11 +72,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/cb10f0b5c859ffbfbdf038e2ce17476fc7b80b0b/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/1b51e562691fd53d3cdde028d672950f2912b1e7/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/cb10f0b5c859ffbfbdf038e2ce17476fc7b80b0b/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/1b51e562691fd53d3cdde028d672950f2912b1e7/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/cb10f0b5c859ffbfbdf038e2ce17476fc7b80b0b/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/1b51e562691fd53d3cdde028d672950f2912b1e7/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -109,10 +109,10 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/cb10f0b5c859ffbfbdf038e2ce17476fc7b80b0b/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/1b51e562691fd53d3cdde028d672950f2912b1e7/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@cb10f0b](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/cb10f0b5c859ffbfbdf038e2ce17476fc7b80b0b)
-on June 23, 2020.
+from [Sage-Bionetworks/governanceGreenPaper@1b51e56](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/1b51e562691fd53d3cdde028d672950f2912b1e7)
+on July 8, 2020.
 </em></small>
 
 ## Authors {.unlisted}
@@ -148,6 +148,7 @@ on June 23, 2020.
 [@arora2019]: doi:10.3386/w25893
 [@autm2019]: https://autm.net/surveys-and-tools/agreements/material-transfer-agreements/mta-toolkit/uniform-biological-material-transfer-agreement
 [@bardill2015]: doi:10.1080/15265161.2015.1062164
+[@bonomi2020]: doi:10.1038/s41588-020-0651-0
 [@bot2016]: doi:10.1038/sdata.2016.11
 [@buolamwini2018]: http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf
 [@bush1945]: https://www.nsf.gov/od/lpa/nsf50/vbush1945.htm
@@ -162,6 +163,7 @@ on June 23, 2020.
 [@decker2007]: https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_054586.pdf
 [@dyke2016]: doi:10.1371/journal.pgen.1005772
 [@ec2020]: https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en
+[@ec2020-2]: doi:10.2838/28184
 [@ferryman2018]: https://datasociety.net/wp-content/uploads/2018/02/DataSociety_Fairness_In_Precision_Medicine_Feb2018.pdf
 [@formswift2020]: https://formswift.com/
 [@garrison2013]: doi:10.1177/0162243912470009
@@ -214,7 +216,7 @@ on June 23, 2020.
 
 ## Abstract {.page_break_before}
 
-This report provides a landscape analysis of of models of governance for open data sharing based on our observations in the biomedical sciences. 
+This report provides a landscape analysis of models of governance for open data sharing based on our observations in the biomedical sciences. 
 We offer an overview of those observations and show areas where we think this work can expand to supply further support for open data sharing outside the sciences. 
 
 The central argument of this paper is that the “right” system of governance is determined by first understanding the nature of the collaborative activities intended. 
@@ -233,17 +235,15 @@ And in so doing, we argue for data governance as a discipline worthy of expertis
 
 ## Introduction to Data Governance {.page_break_before}
 
-We have access to more data than ever before. We have access to faster computing resources than ever before. 
-But technology, by itself, will not cures or create the solutions to climate change. 
+Data scientists in the 21st century, like physicists in the last one, must reckon with the power they have to change the world forever. 
 The 2010s showed that unrestricted personal data surveillance can hack at the roots of society itself — changing elections and undermining collective trust in truth and experts [@vaidhyanathan2018]. 
 Data companies are now struggling to institute governance after-the-fact, building advisory boards, and attaching flags to posts. 
 
-Beyond social media and venture capital, however, lies a vast, rich, and often under-explored field of data governance. 
-Particularly in the sciences, it is not controversial to believe that creating technology requires also creating the practices that govern its use. 
-These scientific cultures often already work under regulation, and thus their existing practices predict life under data protection regulations and privacy laws. 
+In medical research, we are regulated towards values in data connected to beneficence, for example – research should help, not make things worse, for a patient.
+In consumer technology the values discussion is often around free speech, or growth.
+Either way, data about people and the world is inseparable from the values that underlie its creation and application. 
 
-Data scientists in the 21st century, like physicists in the last one, must reckon with the power they have to change the world forever. 
-Data about people and the world is inseparable from the values that underlie its creation and application. 
+It is not just data points, but data collections, which enable and constrain the world of possible analysis, that connects to those values.
 But data scientists, particularly in non-regulated settings, often work without institutions, guideposts, or guardrails — without governance. 
 The outcome is a mishmash of algorithmic inference that is inaccurate at best, racist and divisive at worst [@buolamwini2018].
 
@@ -567,7 +567,7 @@ De-identification is perhaps the oldest mathematical design pattern, and is inco
 | Design Pattern | Description | Example |
 | ----- | ----- | ----- |
 | De-identification | Language in which two or more parties agree to use either removal of fields or mathematical techniques to achieve a standard of de-identification. Typically inserted into larger governance contracts. | De-identification sample clauses [@lawinsider2020] , HHS Sample Business Associate Agreements [@usdhhs2008] |
-| Blockchain | Language by which two or more parties agree to use an open, distributed, permanent ledger to broker transactions and data use. | Accord project template studio [@accord2019] |
+| Blockchain | Language by which two or more parties agree to use an open, distributed, permanent ledger to broker transactions and data use. | Accord project template studio [@accord2019], European Commission Feasability Study [@ec2020-2] |
 | Homomorphic encryption | Language in which two or more parties agree to use encryption that allows computation on distributed storage and computation while preserving privacy. Most use so far in emerging smart contracts regimes [@nugent2016]. | N/A |
 | Differential privacy | Language by which two or more parties agree to publicly expose information about a dataset by describing patterns in the dataset without disclosing data about individuals. Most implementations cluster in technical projects [@opendiff], with little standard contract language available. | N/A |
 
@@ -577,7 +577,7 @@ Table: Mathematical governance mechanisms
 #### Data Type
 
 Data type — the kind of data in use — defines much of the universe of a collaboration structure. 
-Regulation, legislation, civil rights, norms, and contracts are tied to specific kinds of data, such as electronic health records and DNA. 
+Regulation, legislation, civil rights, norms, and contracts are tied to specific kinds of data, such as electronic health records and DNA, which are in turn tied to specific kinds of risks like privacy attacks [@bonomi2020].
 Data types are most often negotiated among collaborators, and are easiest to see inside technical standards, file formats, transactions, and more. 
 They are not themselves governance design patterns, although design patterns will make many references to them.
 
@@ -687,7 +687,7 @@ How CRC Data Governance is Structured.
 
 ### Governance and Design In Context
 
-Our approach in this Green Paper sits within a broader movement to apply user-centered design to policy. 
+Our approach in this Green Paper sits within a broader movement to apply human-centered design to policy. 
 The concepts of structures and patterns will be familiar to designers. 
 Part of our argument is that governance needs design, and that designers should embrace governance as a topic area.
 
@@ -695,7 +695,7 @@ A well-designed governance system must center empathy for those using it, and fr
 While governance creation often starts with desired outcome (e.g., “more fairness” or “more ethics” or “faster outcomes” or “collaboration formed”) it is rare that those outcomes include or articulate aspects of the lived experience of technology-based biology/data science. 
 Designing governance systems for data science, like other digital services, should begin by exploring and pinpointing the needs of the people who will use the service, and the ways the service will fit into their lives.
 
-One helpful tool for user-centered design is the persona. 
+One helpful tool for human-centered design is the persona. 
 Based on interviews with a wide variety of users to understand their views and experiences, it is possible to derive a handful of patterns in the types of users, each augmented with vivid details — a name, picture, personal history, etc — to conjure an image of the person being designed for. 
 Personas provide user archetypes that capture the essentials and are easy to recall and reference throughout the design process. 
 In the context of data use, personas could allow us to test a governance feature with respect to the needs of a variety of stakeholders in open science.
@@ -704,7 +704,7 @@ Scenarios represent another tool.
 Like a persona, a scenario is an artifice that is based on empirical research, analysis of patterns, and synthesis of attributes, embellished with colorful, memorable details to aid in functionality. 
 However, instead of creating a set of hypothetical people, we are creating a set of hypothetical contexts in which they would act. 
 Like personas, scenarios define the space of the possible, and are useful only as a set (not individually) to explore the robustness of particular options. 
-Also, a hallmark of user-centered design is frequent, rapid, iterative prototyping, which incorporates user feedback back into the design process as often as possible. 
+Also, a hallmark of human-centered design is frequent, rapid, iterative prototyping, which incorporates user feedback back into the design process as often as possible. 
 Testbeds to enable frequent, rapid, iterative prototyping and integrate user feedback are another often overlooked, but entirely necessary, component of the governance enterprise. 
 
 
@@ -755,8 +755,8 @@ Tools could include pedagogical resources (up to and including online courses), 
 
 ### Epilogue
 
-We envision the integrated technologies, governance structures, and design patterns we describe here as part of a fundamental infrastructure for a robust science commons. 
-It marries the development of technologies for open science with the development of technologies for their governance. 
+We envision the models of governance we describe here as part of a fundamental infrastructure for a robust science commons. 
+This marries the development of technologies for open science with the development of technologies for their governance. 
 In our vision, the science commons infrastructure would connect scientific knowledge — at least in part — across domains and guide the evolution of data science across scholarly paradigms. 
 Every scientist would be afforded access to digital services with which to contribute to and benefit from a scientific knowledge commons and be able, in turn, to manage those services legally and ethically. 
 For assets from data to algorithms to protocols to prose to diagrams, anyone could store, transfer, compute, collaborate, publish, read, verify, and critique. 
@@ -805,10 +805,11 @@ This paper would not exist without the Sage Bionetworks team.
 Christine Suver contributed enormously to the governance structures described here, and Megan Doerr’s work on informed consent and data governance is woven throughout (and thanks for a careful review). 
 Vanessa Barone’s work with Woody MacDuffie on the Privacy Toolkit contributed the key concept of design patterns. 
 Sarah Moore and Victoria Allen’s work on the AllofUs Research Program represents an ongoing test of the models described here. 
-Brian Bot took the static content of this green paper and translated it into a living document via manubot and hosted on GitHub to enable future community contributions and critiques.
 And Stephen Friend was a constant early inspiration and collaborator for innovation in governance structures. 
 
-We would also like to thank John Chaffins, Stephanie Devaney, Jesse Dylan, Ruth Faden, Kadija Ferryman, David Fore, Nancy Kass, Bartha Knoppers, Sean McDonald, Jasmine McNealy, Michelle Meyer, Camille Nebeker, Stephanie Nguyen, Adrian Thorogood, Jennifer Wagner, and Joon-Ho Yu for ongoing conversations that contributed to this paper.
+Brian Bot took the static content of this green paper and translated it into a living document via manubot and hosted on GitHub to enable future community contributions and critiques.
+
+We would also like to thank Eva Barbarossa, John Chaffins, Stephanie Devaney, Jesse Dylan, Ruth Faden, Kadija Ferryman, David Fore, Nancy Kass, Bartha Knoppers, Sean McDonald, Jasmine McNealy, Michelle Meyer, Camille Nebeker, Stephanie Nguyen, Adrian Thorogood, Jennifer Wagner, and Joon-Ho Yu for ongoing conversations that contributed to this paper.
 
 We also thank Academy Health, which provided the first grant ever to the Governance team at Sage.
 
