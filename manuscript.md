@@ -72,11 +72,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/1b51e562691fd53d3cdde028d672950f2912b1e7/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/5b376b50961c4d16eeff02ccafd103426d9aa42d/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/1b51e562691fd53d3cdde028d672950f2912b1e7/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/5b376b50961c4d16eeff02ccafd103426d9aa42d/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/1b51e562691fd53d3cdde028d672950f2912b1e7/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/5b376b50961c4d16eeff02ccafd103426d9aa42d/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -109,9 +109,9 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/1b51e562691fd53d3cdde028d672950f2912b1e7/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/5b376b50961c4d16eeff02ccafd103426d9aa42d/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@1b51e56](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/1b51e562691fd53d3cdde028d672950f2912b1e7)
+from [Sage-Bionetworks/governanceGreenPaper@5b376b5](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/5b376b50961c4d16eeff02ccafd103426d9aa42d)
 on July 8, 2020.
 </em></small>
 
@@ -162,8 +162,8 @@ on July 8, 2020.
 [@ccndb]: https://creativecommons.org/share-your-work/
 [@decker2007]: https://sites.nationalacademies.org/cs/groups/pgasite/documents/webpage/pga_054586.pdf
 [@dyke2016]: doi:10.1371/journal.pgen.1005772
-[@ec2020]: https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en
-[@ec2020-2]: doi:10.2838/28184
+[@ec2020a]: https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en
+[@ec2020b]: doi:10.2838/28184
 [@ferryman2018]: https://datasociety.net/wp-content/uploads/2018/02/DataSociety_Fairness_In_Precision_Medicine_Feb2018.pdf
 [@formswift2020]: https://formswift.com/
 [@garrison2013]: doi:10.1177/0162243912470009
@@ -509,7 +509,7 @@ We review these areas here.
 | ----- | ----- | ----- |
 Open license | A license or contract which contains provisions that allow other individuals to reuse data with specific freedoms and conditions. Connected to intellectual property laws. | Creative Commons [@ccndb], Open Database License [@okf2009a], Microsoft Open Use of Data Agreement [@microsoft2020] |
 | Data use agreement | An agreement that allows use of restricted data in a specific way. Connected to health privacy laws. | Health Care Systems Network Data Use Agreement Toolkit [@hcsn2020] |
-| Data transfer agreement | An agreement that allows transfer of data from one party to another not associated with the first party under certain terms and conditions. Connected to data protection laws. | European Commission Standard Contractual Clauses [@ec2020], Uniform Biological Materials Transfer Agreement [@autm2019] |
+| Data transfer agreement | An agreement that allows transfer of data from one party to another not associated with the first party under certain terms and conditions. Connected to data protection laws. | European Commission Standard Contractual Clauses [@ec2020a], Uniform Biological Materials Transfer Agreement [@autm2019] |
 | Data processing addendum | Standard contractual clauses for transfer between data controllers and data processors. Relevant in GDPR transfers as well as emerging state legislation in the US [@hahn2019]. | IAPP Sample Addendum Addressing Article 28 GDPR and Incorporating Standard Contractual Clauses for Controller to Processor Transfers of Personal Data [@iapp2020] |
 | Public domain | A declaration that no intellectual property rights exist in a data set or database. | Creative Commons CC0 [@ccnda], Public Domain Database License [@okf2009b] |
 
@@ -567,7 +567,7 @@ De-identification is perhaps the oldest mathematical design pattern, and is inco
 | Design Pattern | Description | Example |
 | ----- | ----- | ----- |
 | De-identification | Language in which two or more parties agree to use either removal of fields or mathematical techniques to achieve a standard of de-identification. Typically inserted into larger governance contracts. | De-identification sample clauses [@lawinsider2020] , HHS Sample Business Associate Agreements [@usdhhs2008] |
-| Blockchain | Language by which two or more parties agree to use an open, distributed, permanent ledger to broker transactions and data use. | Accord project template studio [@accord2019], European Commission Feasability Study [@ec2020-2] |
+| Blockchain | Language by which two or more parties agree to use an open, distributed, permanent ledger to broker transactions and data use. | Accord project template studio [@accord2019], European Commission Feasability Study [@ec2020b] |
 | Homomorphic encryption | Language in which two or more parties agree to use encryption that allows computation on distributed storage and computation while preserving privacy. Most use so far in emerging smart contracts regimes [@nugent2016]. | N/A |
 | Differential privacy | Language by which two or more parties agree to publicly expose information about a dataset by describing patterns in the dataset without disclosing data about individuals. Most implementations cluster in technical projects [@opendiff], with little standard contract language available. | N/A |
 
