@@ -349,7 +349,7 @@
   },
   {
     "id": "http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf",
-    "type": "presentation",
+    "type": "webpage",
     "URL": "http://thefdp.org/default/assets/File/Presentations/Schneider%20FDP%20FWS3%20Results%20Plenary%20Jan19.pdf",
     "title": "Results of the 2018 FDP Faculty Workload Survey: Input for optimizing time on active research",
     "publisher": "Plenary session presented at the January meeting of the Federal Demonstration Partnership (FDP), Washington, D.C.",
@@ -366,5 +366,20 @@
         ]
       ]
     }
+  },
+  {
+    "id": "isbn:978-92-76-10638-8",
+    "type": "article-journal",
+    "issued": {
+      "date-parts": [
+        [
+          2020
+        ]
+      ]
+    },
+    "container-title": "",
+    "publisher": "Directorate-General for Justice and Consumers (European Commission)",
+    "title": "Modelling the EU Economy as an Ecosystem of Contracts. Volume 1, feasibility study",
+    "DOI": "10.2838/28184"
   }
 ]
