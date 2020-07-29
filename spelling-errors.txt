@@ -33,7 +33,7 @@ FDP
 FDP’s
 Feasability
 FHIR
-Findable
+findable
 Funder
 funders
 GDPR
@@ -47,7 +47,7 @@ Homomorphic
 IAPP
 identifiability
 incentivize
-Interoperable
+interoperable
 IRB
 Joon
 Kadija
