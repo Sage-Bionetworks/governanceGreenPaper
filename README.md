@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/gh-pages) branch hosts the contents of this directory at <https://Sage-Bionetworks.github.io/governanceGreenPaper/>.
-The permalink for this webpage version is <https://Sage-Bionetworks.github.io/governanceGreenPaper/v/011098a9888dcac51a313149c83dd580623ef8e4/>.
+The permalink for this webpage version is <https://Sage-Bionetworks.github.io/governanceGreenPaper/v/3c88f30eca82e1686b94935de8e54cf6d07cbf8f/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://Sage-Bionetworks.github.io/governanceGreenPaper/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`011098a9888dcac51a313149c83dd580623ef8e4`](https://github.com/Sage-Bionetworks/governanceGreenPaper/commit/011098a9888dcac51a313149c83dd580623ef8e4).
+[`3c88f30eca82e1686b94935de8e54cf6d07cbf8f`](https://github.com/Sage-Bionetworks/governanceGreenPaper/commit/3c88f30eca82e1686b94935de8e54cf6d07cbf8f).
