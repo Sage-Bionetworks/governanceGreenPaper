@@ -21,7 +21,7 @@ customizable
 cybersecurity
 DAC
 DACs
-Dataset
+dataset
 dbGAP
 designable
 Devaney
@@ -31,7 +31,7 @@ FDP
 FDP’s
 Feasability
 FHIR
-Findable
+findable
 Funder
 funders
 GDPR
@@ -44,7 +44,7 @@ Homomorphic
 IAPP
 identifiability
 incentivize
-interoperable
+Interoperable
 IRB
 Joon
 Kadija
