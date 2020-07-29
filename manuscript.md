@@ -3,7 +3,7 @@ author-meta:
 - Lara M. Mangravite
 - Avery Sen
 - John T. Wilbanks
-- Sage Bionetworks Governance Team
+- Sage Bionetworks Governance Team &dagger;
 bibliography:
 - content/manual-references.json
 date-meta: '2020-07-29'
@@ -61,7 +61,7 @@ header-includes: '<!--
 
   <meta name="twitter:creator" content="@wilbanks" />
 
-  <meta name="citation_author" content="Sage Bionetworks Governance Team" />
+  <meta name="citation_author" content="Sage Bionetworks Governance Team &amp;dagger;" />
 
   <link rel="canonical" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/" />
 
@@ -75,11 +75,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/42f1191ab45680801f2efb703a21f47fa257b8c6/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/4af8fc7acf3bea0517f2ef083df9c5ad265727ec/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/42f1191ab45680801f2efb703a21f47fa257b8c6/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/4af8fc7acf3bea0517f2ef083df9c5ad265727ec/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/42f1191ab45680801f2efb703a21f47fa257b8c6/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/4af8fc7acf3bea0517f2ef083df9c5ad265727ec/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -112,9 +112,9 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/42f1191ab45680801f2efb703a21f47fa257b8c6/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/4af8fc7acf3bea0517f2ef083df9c5ad265727ec/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@42f1191](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/42f1191ab45680801f2efb703a21f47fa257b8c6)
+from [Sage-Bionetworks/governanceGreenPaper@4af8fc7](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/4af8fc7acf3bea0517f2ef083df9c5ad265727ec)
 on July 29, 2020.
 </em></small>
 
@@ -145,16 +145,20 @@ on July 29, 2020.
      Sage Bionetworks
   </small>
 
-+ **Sage Bionetworks Governance Team**<br><br>
++ **Sage Bionetworks Governance Team &dagger;**<br><br>
   <small>
   </small>
 
 
 -----
 
-*Sage Governance Team*
+&dagger; Sage Bionetworks Governance Team
 
+<small>
 Tori Allen, Vanessa Barone, Megan Doerr, Shira Grayson, Abigail Karikari, Emily Lang, Lea Martin, Sarah Moore, Ann Novakowski, Allie Seroussi, Christine Suver
+</small>
+
+-----
 
 
 [@accord2019]: https://www.accordproject.org/projects/template-studio/
