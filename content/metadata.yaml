@@ -25,4 +25,4 @@ authors:
     email: john.wilbanks@sagebase.org
     affiliations:
       - Sage Bionetworks
-  - name: Sage Bionetworks Governance Team &dagger;
+  - name: Sage Bionetworks Governance Team <sup> &dagger; </sup>
