@@ -21,7 +21,7 @@ customizable
 cybersecurity
 DAC
 DACs
-dataset
+Dataset
 dbGAP
 designable
 Devaney
@@ -44,7 +44,7 @@ Homomorphic
 IAPP
 identifiability
 incentivize
-interoperable
+Interoperable
 IRB
 Joon
 Kadija
@@ -91,7 +91,7 @@ userQual
 Vannevar
 WCG
 wearables
-Wilbanks
+wilbanks
 WIRB
 Yu
 Zuckerberg
