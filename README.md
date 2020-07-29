@@ -9,8 +9,8 @@
 
 This repository represents a [manubot](https://manubot.org/) version of the green paper, whose prose is included in the [content](content/) folder. The fully executed green paper can be found at:
 
-- **HTML manuscript**: https://Sage-Bionetworks.github.io/governanceGreenPaper/
-- **PDF manuscript**: https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf
+- HTML manuscript: https://Sage-Bionetworks.github.io/governanceGreenPaper/
+- PDF manuscript: https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf
 
 ## Abstract
 
