@@ -2,6 +2,7 @@ ADknowledgeportal
 AllofUs
 amongst
 artisanal
+Barone
 Barone’s
 Bartha
 Bionetworks
@@ -21,10 +22,11 @@ customizable
 cybersecurity
 DAC
 DACs
-Dataset
+dataset
 dbGAP
 designable
 Devaney
+Doerr
 Doerr’s
 Faden
 FDP
@@ -37,6 +39,7 @@ funders
 GDPR
 generalizable
 GH
+Grayson
 guinney
 HIPAA
 hoc
@@ -44,10 +47,11 @@ Homomorphic
 IAPP
 identifiability
 incentivize
-Interoperable
+interoperable
 IRB
 Joon
 Kadija
+Karikari
 Kass
 Knoppers
 LegalZoom
@@ -64,6 +68,7 @@ mythos
 NCATS
 Nebeker
 NIH’s
+Novakowski
 omic
 Parkinsons
 phonation
@@ -76,6 +81,8 @@ roadmap
 Schifano
 seedcorn
 Sentripetal
+Seroussi
+Shira
 Spelman
 submitters
 subtypes
@@ -85,6 +92,7 @@ SyntheticMass
 Testbeds
 Thorogood
 toolkits
+Tori
 transdisciplinary
 Translational
 userQual

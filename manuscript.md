@@ -3,7 +3,7 @@ author-meta:
 - Lara M. Mangravite
 - Avery Sen
 - John T. Wilbanks
-- with the Sage Bionetworks Governance Team
+- Sage Bionetworks Governance Team
 bibliography:
 - content/manual-references.json
 date-meta: '2020-07-29'
@@ -61,7 +61,7 @@ header-includes: '<!--
 
   <meta name="twitter:creator" content="@wilbanks" />
 
-  <meta name="citation_author" content="with the Sage Bionetworks Governance Team" />
+  <meta name="citation_author" content="Sage Bionetworks Governance Team" />
 
   <link rel="canonical" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/" />
 
@@ -75,11 +75,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/3c88f30eca82e1686b94935de8e54cf6d07cbf8f/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/86f0486e22d4c5b189ade6a5201921bac967f931/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/3c88f30eca82e1686b94935de8e54cf6d07cbf8f/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/86f0486e22d4c5b189ade6a5201921bac967f931/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/3c88f30eca82e1686b94935de8e54cf6d07cbf8f/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/86f0486e22d4c5b189ade6a5201921bac967f931/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -112,9 +112,9 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/3c88f30eca82e1686b94935de8e54cf6d07cbf8f/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/86f0486e22d4c5b189ade6a5201921bac967f931/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@3c88f30](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/3c88f30eca82e1686b94935de8e54cf6d07cbf8f)
+from [Sage-Bionetworks/governanceGreenPaper@86f0486](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/86f0486e22d4c5b189ade6a5201921bac967f931)
 on July 29, 2020.
 </em></small>
 
@@ -145,10 +145,16 @@ on July 29, 2020.
      Sage Bionetworks
   </small>
 
-+ **with the Sage Bionetworks Governance Team**<br><br>
++ **Sage Bionetworks Governance Team**<br><br>
   <small>
   </small>
 
+
+-----
+
+#### Sage Governance Team {.unlisted}
+
+Tori Allen, Vanessa Barone, Megan Doerr, Shira Grayson, Abigail Karikari, Emily Lang, Lea Martin, Sarah Moore, Ann Novakowski, Allie Seroussi, Christine Suver
 
 
 [@accord2019]: https://www.accordproject.org/projects/template-studio/
@@ -760,7 +766,7 @@ One reason is that an enormous amount of tacit knowledge is required to use thes
 Our IA work will explore how we can learn from libraries and other complex information spaces, so that we can find areas where we need to build tools. 
 Tools could include pedagogical resources (up to and including online courses), software services, and testing environments. 
 
-### Epilogue
+## Epilogue
 
 We envision the models of governance we describe here as part of a fundamental infrastructure for a robust science commons. 
 This marries the development of technologies for open science with the development of technologies for their governance. 

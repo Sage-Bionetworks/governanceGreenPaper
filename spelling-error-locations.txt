@@ -1,6 +1,15 @@
 content/00.front-matter.md:47:funders
 content/00.front-matter.md:47:funders
 content/00.front-matter.md:48:funders
+content/00.front-matter.md:57:Barone
+content/00.front-matter.md:57:Doerr
+content/00.front-matter.md:57:Grayson
+content/00.front-matter.md:57:Karikari
+content/00.front-matter.md:57:Novakowski
+content/00.front-matter.md:57:Seroussi
+content/00.front-matter.md:57:Shira
+content/00.front-matter.md:57:Suver
+content/00.front-matter.md:57:Tori
 content/01.abstract.md:9:cdisc
 content/01.abstract.md:29:iapp
 content/01.abstract.md:31:gdpr
@@ -157,8 +166,10 @@ content/05.conclusion.md:84:transdisciplinary
 content/90.back-matter.md:3:Schifano
 content/90.back-matter.md:3:Spelman
 content/90.back-matter.md:5:Bionetworks
+content/90.back-matter.md:6:Doerr
 content/90.back-matter.md:6:Doerr’s
 content/90.back-matter.md:6:Suver
+content/90.back-matter.md:7:Barone
 content/90.back-matter.md:7:Barone’s
 content/90.back-matter.md:7:MacDuffie
 content/90.back-matter.md:8:AllofUs
