@@ -75,11 +75,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/c78bd54f20aeaaa1f3daa89e2ce160b70a353226/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/7ef288619fb46e6d9319433c64fbc5bef6250fe7/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/c78bd54f20aeaaa1f3daa89e2ce160b70a353226/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/7ef288619fb46e6d9319433c64fbc5bef6250fe7/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/c78bd54f20aeaaa1f3daa89e2ce160b70a353226/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/7ef288619fb46e6d9319433c64fbc5bef6250fe7/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -112,9 +112,9 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/c78bd54f20aeaaa1f3daa89e2ce160b70a353226/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/7ef288619fb46e6d9319433c64fbc5bef6250fe7/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@c78bd54](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/c78bd54f20aeaaa1f3daa89e2ce160b70a353226)
+from [Sage-Bionetworks/governanceGreenPaper@7ef2886](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/7ef288619fb46e6d9319433c64fbc5bef6250fe7)
 on July 29, 2020.
 </em></small>
 
@@ -152,10 +152,8 @@ on July 29, 2020.
 
 -----
 
-<sup>&dagger;</sup> Sage Bionetworks Governance Team
-
 <small>
-Tori Allen, Vanessa Barone, Megan Doerr, Shira Grayson, Abigail Karikari, Emily Lang, Lea Martin, Sarah Moore, Ann Novakowski, Allie Seroussi, Christine Suver
+<sup>&dagger;</sup> **Sage Bionetworks Governance Team**: Tori Allen, Vanessa Barone, Megan Doerr, Shira Grayson, Abigail Karikari, Emily Lang, Lea Martin, Sarah Moore, Ann Novakowski, Allie Seroussi, Christine Suver
 </small>
 
 -----
