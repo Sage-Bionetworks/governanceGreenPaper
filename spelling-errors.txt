@@ -33,7 +33,7 @@ FDP
 FDP’s
 Feasability
 FHIR
-findable
+Findable
 Funder
 funders
 GDPR
@@ -99,7 +99,7 @@ userQual
 Vannevar
 WCG
 wearables
-wilbanks
+Wilbanks
 WIRB
 Yu
 Zuckerberg

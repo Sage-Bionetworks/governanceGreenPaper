@@ -75,11 +75,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/86f0486e22d4c5b189ade6a5201921bac967f931/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/42f1191ab45680801f2efb703a21f47fa257b8c6/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/86f0486e22d4c5b189ade6a5201921bac967f931/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/42f1191ab45680801f2efb703a21f47fa257b8c6/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/86f0486e22d4c5b189ade6a5201921bac967f931/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/42f1191ab45680801f2efb703a21f47fa257b8c6/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -112,9 +112,9 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/86f0486e22d4c5b189ade6a5201921bac967f931/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/42f1191ab45680801f2efb703a21f47fa257b8c6/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@86f0486](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/86f0486e22d4c5b189ade6a5201921bac967f931)
+from [Sage-Bionetworks/governanceGreenPaper@42f1191](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/42f1191ab45680801f2efb703a21f47fa257b8c6)
 on July 29, 2020.
 </em></small>
 
@@ -152,7 +152,7 @@ on July 29, 2020.
 
 -----
 
-#### Sage Governance Team {.unlisted}
+*Sage Governance Team*
 
 Tori Allen, Vanessa Barone, Megan Doerr, Shira Grayson, Abigail Karikari, Emily Lang, Lea Martin, Sarah Moore, Ann Novakowski, Allie Seroussi, Christine Suver
 
