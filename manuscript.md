@@ -3,9 +3,10 @@ author-meta:
 - Lara M. Mangravite
 - Avery Sen
 - John T. Wilbanks
+- with the Sage Bionetworks Governance Team
 bibliography:
 - content/manual-references.json
-date-meta: '2020-07-08'
+date-meta: '2020-07-29'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -24,9 +25,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report" />
 
-  <meta name="dc.date" content="2020-07-08" />
+  <meta name="dc.date" content="2020-07-29" />
 
-  <meta name="citation_publication_date" content="2020-07-08" />
+  <meta name="citation_publication_date" content="2020-07-29" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -60,6 +61,8 @@ header-includes: '<!--
 
   <meta name="twitter:creator" content="@wilbanks" />
 
+  <meta name="citation_author" content="with the Sage Bionetworks Governance Team" />
+
   <link rel="canonical" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/" />
 
   <meta property="og:url" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/" />
@@ -72,11 +75,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/2cf939d9aaa2ec46e33fa07de030c423f7f69615/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e3c831650baf289f741e3946a1a92adef49b05c3/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/2cf939d9aaa2ec46e33fa07de030c423f7f69615/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e3c831650baf289f741e3946a1a92adef49b05c3/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/2cf939d9aaa2ec46e33fa07de030c423f7f69615/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e3c831650baf289f741e3946a1a92adef49b05c3/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -109,10 +112,10 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/2cf939d9aaa2ec46e33fa07de030c423f7f69615/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/e3c831650baf289f741e3946a1a92adef49b05c3/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@2cf939d](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/2cf939d9aaa2ec46e33fa07de030c423f7f69615)
-on July 8, 2020.
+from [Sage-Bionetworks/governanceGreenPaper@e3c8316](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/e3c831650baf289f741e3946a1a92adef49b05c3)
+on July 29, 2020.
 </em></small>
 
 ## Authors {.unlisted}
@@ -140,6 +143,10 @@ on July 8, 2020.
     [wilbanks](https://twitter.com/wilbanks)<br>
   <small>
      Sage Bionetworks
+  </small>
+
++ **with the Sage Bionetworks Governance Team**<br><br>
+  <small>
   </small>
 
 
