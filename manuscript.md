@@ -3,10 +3,10 @@ author-meta:
 - Lara M. Mangravite
 - Avery Sen
 - John T. Wilbanks
-- Sage Bionetworks Governance Team <sup> &dagger; </sup>
+- Sage Bionetworks Team <sup> &dagger; </sup>
 bibliography:
 - content/manual-references.json
-date-meta: '2020-07-29'
+date-meta: '2020-10-06'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -25,9 +25,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report" />
 
-  <meta name="dc.date" content="2020-07-29" />
+  <meta name="dc.date" content="2020-10-06" />
 
-  <meta name="citation_publication_date" content="2020-07-29" />
+  <meta name="citation_publication_date" content="2020-10-06" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -61,7 +61,7 @@ header-includes: '<!--
 
   <meta name="twitter:creator" content="@wilbanks" />
 
-  <meta name="citation_author" content="Sage Bionetworks Governance Team &lt;sup&gt; &amp;dagger; &lt;/sup&gt;" />
+  <meta name="citation_author" content="Sage Bionetworks Team &lt;sup&gt; &amp;dagger; &lt;/sup&gt;" />
 
   <link rel="canonical" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/" />
 
@@ -75,11 +75,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/7ef288619fb46e6d9319433c64fbc5bef6250fe7/" />
+  <link rel="alternate" type="text/html" href="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/3c2a648b892d8c672a3043c4bacda65505947921/" />
 
-  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/7ef288619fb46e6d9319433c64fbc5bef6250fe7/" />
+  <meta name="manubot_html_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/3c2a648b892d8c672a3043c4bacda65505947921/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/7ef288619fb46e6d9319433c64fbc5bef6250fe7/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://Sage-Bionetworks.github.io/governanceGreenPaper/v/3c2a648b892d8c672a3043c4bacda65505947921/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -112,10 +112,10 @@ title: 'Mechanisms to Govern Responsible Sharing of Open Data: A Progress Report
 
 <small><em>
 This manuscript
-([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/7ef288619fb46e6d9319433c64fbc5bef6250fe7/))
+([permalink](https://Sage-Bionetworks.github.io/governanceGreenPaper/v/3c2a648b892d8c672a3043c4bacda65505947921/))
 was automatically generated
-from [Sage-Bionetworks/governanceGreenPaper@7ef2886](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/7ef288619fb46e6d9319433c64fbc5bef6250fe7)
-on July 29, 2020.
+from [Sage-Bionetworks/governanceGreenPaper@3c2a648](https://github.com/Sage-Bionetworks/governanceGreenPaper/tree/3c2a648b892d8c672a3043c4bacda65505947921)
+on October 6, 2020.
 </em></small>
 
 ## Authors {.unlisted}
@@ -145,7 +145,7 @@ on July 29, 2020.
      Sage Bionetworks
   </small>
 
-+ **Sage Bionetworks Governance Team <sup> &dagger; </sup>**<br><br>
++ **Sage Bionetworks Team <sup> &dagger; </sup>**<br><br>
   <small>
   </small>
 
@@ -153,7 +153,7 @@ on July 29, 2020.
 -----
 
 <small>
-<sup>&dagger;</sup> **Sage Bionetworks Governance Team**: Tori Allen, Vanessa Barone, Megan Doerr, Shira Grayson, Abigail Karikari, Emily Lang, Lea Martin, Sarah Moore, Ann Novakowski, Allie Seroussi, Christine Suver
+<sup>&dagger;</sup> **Sage Bionetworks Team**: Tori Allen, Vanessa Barone, Brian M. Bot, Megan Doerr, Shira Grayson, Justin Guinney, Abigail Karikari, Emily Lang, Lea Martin, Sarah Moore, Ann Novakowski, Allie Seroussi, Christine Suver
 </small>
 
 -----
@@ -822,6 +822,7 @@ Vanessa Barone’s work with Woody MacDuffie on the Privacy Toolkit contributed 
 Sarah Moore and Victoria Allen’s work on the AllofUs Research Program represents an ongoing test of the models described here. 
 And Stephen Friend was a constant early inspiration and collaborator for innovation in governance structures. 
 
+Justin Guinney provided the crucial first draft of the first figures of this paper.
 Brian Bot took the static content of this green paper and translated it into a living document via manubot and hosted on GitHub to enable future community contributions and critiques.
 
 We would also like to thank Eva Barbarossa, John Chaffins, Stephanie Devaney, Jesse Dylan, Ruth Faden, Kadija Ferryman, David Fore, Nancy Kass, Bartha Knoppers, Sean McDonald, Jasmine McNealy, Michelle Meyer, Camille Nebeker, Stephanie Nguyen, Adrian Thorogood, Jennifer Wagner, and Joon-Ho Yu for ongoing conversations that contributed to this paper.

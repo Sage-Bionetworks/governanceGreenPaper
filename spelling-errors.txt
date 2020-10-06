@@ -15,7 +15,7 @@ collectionMechanisms
 colorectal
 Concordantly
 consortiums
-Covid
+COVID
 CRC
 curation
 customizable
@@ -33,7 +33,7 @@ FDP
 FDP’s
 Feasability
 FHIR
-Findable
+findable
 Funder
 funders
 GDPR
@@ -47,7 +47,7 @@ Homomorphic
 IAPP
 identifiability
 incentivize
-Interoperable
+interoperable
 IRB
 Joon
 Kadija
@@ -73,7 +73,7 @@ omic
 Parkinsons
 phonation
 policymaking
-Pre
+pre
 reconceive
 representativeness
 researcer
@@ -99,7 +99,7 @@ userQual
 Vannevar
 WCG
 wearables
-wilbanks
+Wilbanks
 WIRB
 Yu
 Zuckerberg
